@@ -1,0 +1,766 @@
+[
+  {
+    "slug": "african-flat-bowl-fascinator",
+    "name": "African Flat Bowl Fascinator",
+    "description": "",
+    "price": 180,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/african-flat-bowl-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/999ea8ec-d9ee-426f-9033-38ddb2793c0d/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/66884214-94d9-4e80-bfc1-d3aba6853a4b/original.webp"
+    ],
+    "local_images": [
+      "assets/products/african-flat-bowl-fascinator-0.webp",
+      "assets/products/african-flat-bowl-fascinator-1.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "airy-glam-hat",
+    "name": "Airy Glam Hat",
+    "description": "Available in all colors",
+    "price": 800,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/airy-glam-hat",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/57493ed9-7036-467c-a412-693ae541f010/original.webp"
+    ],
+    "local_images": [
+      "assets/products/airy-glam-hat-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "beaded-head-band",
+    "name": "Beaded Head Band",
+    "description": "Comes in all colors",
+    "price": 200,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/beaded-head-band",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/e30e1a24-1eb7-4ec8-ac7e-3bc21b63ca07/original.webp"
+    ],
+    "local_images": [
+      "assets/products/beaded-head-band-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "bean-flower-hatinator",
+    "name": "Bean Flower Hatinator",
+    "description": "",
+    "price": 160,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/bean-flower-hatinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/dcc7f2c7-225d-44e1-a7f1-ec946ae025e4/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/3aa1e2fc-b670-4ee6-ada8-052821396d73/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/8947575d-0a78-4ca2-9eb3-5b186766e638/original.webp"
+    ],
+    "local_images": [
+      "assets/products/bean-flower-hatinator-0.webp",
+      "assets/products/bean-flower-hatinator-1.webp",
+      "assets/products/bean-flower-hatinator-2.webp"
+    ],
+    "collections": [
+      "fascinators-hats",
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "bespoke-netty-fascinator-addon",
+    "name": "Bespoke Netty Fascinator Addon",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/bespoke-netty-fascinator-addon",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/accb59ac-6383-4690-b8d3-01d0d6386234/original.webp"
+    ],
+    "local_images": [
+      "assets/products/bespoke-netty-fascinator-addon-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats",
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "black-faced-net",
+    "name": "Black Faced Net",
+    "description": "",
+    "price": 140,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/black-faced-net",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/05ae216d-f256-4edb-9e35-be49d4b7f2b8/original.webp"
+    ],
+    "local_images": [
+      "assets/products/black-faced-net-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "bloomy-gloom",
+    "name": "Bloomy Gloom",
+    "description": "Comes in all colours. Just let us know what color you prefer",
+    "price": 130,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/bloomy-gloom",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/18b3c8bb-6577-430a-9dee-1239aa2e2f31/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/0d5b13b5-5121-4619-8638-f77eb51ae9ec/original.webp"
+    ],
+    "local_images": [
+      "assets/products/bloomy-gloom-0.webp",
+      "assets/products/bloomy-gloom-1.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "brida-fascinator",
+    "name": "Brida Fascinator",
+    "description": "",
+    "price": 180,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/brida-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/3ff67378-3305-4c28-a699-1afc9e352882/original.webp"
+    ],
+    "local_images": [
+      "assets/products/brida-fascinator-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "bumpy-beaded-head-band",
+    "name": "Bumpy Beaded Head Band",
+    "description": "Comes in all colors.",
+    "price": 180,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/bumpy-beaded-head-band",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/91fb3a34-5161-49e2-a358-2189af87c5bb/original.webp"
+    ],
+    "local_images": [
+      "assets/products/bumpy-beaded-head-band-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "carlet-sculptural",
+    "name": "Carlet Sculptural",
+    "description": "",
+    "price": 120,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/carlet-sculptural",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/f6db6828-5725-4f95-9e1a-79f04f698669/original.webp"
+    ],
+    "local_images": [
+      "assets/products/carlet-sculptural-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats",
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "classic-feathered-facinator",
+    "name": "Classic Feathered Facinator",
+    "description": "",
+    "price": 130,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/classic-feathered-facinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/30d08668-de43-406a-aadb-655a8529ea68/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/95194f79-ceca-4916-b955-26d59a835db9/original.webp"
+    ],
+    "local_images": [
+      "assets/products/classic-feathered-facinator-0.webp",
+      "assets/products/classic-feathered-facinator-1.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "classic-prestine-flower-fascinator",
+    "name": "Classic Prestine Flower Fascinator",
+    "description": "",
+    "price": 30,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/classic-prestine-flower-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/442d6763-6496-4e31-89d6-26cf5fecff02/original.webp"
+    ],
+    "local_images": [
+      "assets/products/classic-prestine-flower-fascinator-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "cmu19bk5j00012jqpw86rjocg",
+    "name": "Long String Petals",
+    "description": "All colors are vailable",
+    "price": 40,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/cmu19bk5j00012jqpw86rjocg",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttvbcg600072jmv18sx6p2w/media/16be33e6-120e-409c-89d1-04a9a307351c/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmu19bk5j00012jqpw86rjocg-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "cmu19co2700022jqpm80ko0yd",
+    "name": "Classic Beaded Flower",
+    "description": "All colors available, just let us know",
+    "price": 50,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/cmu19co2700022jqpm80ko0yd",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttvbcg600072jmv18sx6p2w/media/d9b22129-05b5-446d-9774-97bc6d73ddc5/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmu19co2700022jqpm80ko0yd-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "cmu19g25700032jqpvkxdt3oc",
+    "name": "Simple Classic Crochet",
+    "description": "All colors available",
+    "price": 45,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/cmu19g25700032jqpvkxdt3oc",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttvbcg600072jmv18sx6p2w/media/3d0bb446-4343-4cf0-9084-6e037e0ce526/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmu19g25700032jqpvkxdt3oc-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "copper-loop-fascinator",
+    "name": "Copper loop fascinator",
+    "description": "",
+    "price": 90,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/copper-loop-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/8608aed5-4dc8-4a50-b110-282ad2c1059e/original.webp"
+    ],
+    "local_images": [
+      "assets/products/copper-loop-fascinator-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "couture-black-fascinator",
+    "name": "Couture Black Fascinator",
+    "description": "",
+    "price": 150,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/couture-black-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/045859c3-091f-42ae-bf8c-9e098ae868e3/original.webp"
+    ],
+    "local_images": [
+      "assets/products/couture-black-fascinator-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "elegant-orange",
+    "name": "elegant orange",
+    "description": "",
+    "price": 100,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/elegant-orange",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/1ee7c00b-5b0a-41b8-8cad-ffafcaf82c3b/original.webp"
+    ],
+    "local_images": [
+      "assets/products/elegant-orange-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "emerald-fascinator",
+    "name": "Emerald Fascinator",
+    "description": "",
+    "price": 150,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/emerald-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/71bcc286-5ee2-470a-982a-669679e1543b/original.webp"
+    ],
+    "local_images": [
+      "assets/products/emerald-fascinator-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "fascinator-with-pearl-accents",
+    "name": "fascinator with pearl accents",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/fascinator-with-pearl-accents",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/54128c9c-828d-42d6-9d02-106e0a1e1ba5/original.webp"
+    ],
+    "local_images": [
+      "assets/products/fascinator-with-pearl-accents-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "feather-fascinator",
+    "name": "Feather Fascinator",
+    "description": "",
+    "price": 150,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/feather-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/f4946265-6c42-43e4-a7fa-b1f3ab649d1f/original.webp"
+    ],
+    "local_images": [
+      "assets/products/feather-fascinator-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "feathered-cheater-skin",
+    "name": "Feathered Cheater Skin",
+    "description": "",
+    "price": 170,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/feathered-cheater-skin",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/febc15a5-5396-4503-aa5e-57bd9f677bb1/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/1ffe5462-4aac-4ad7-acf7-5363d8242420/original.webp"
+    ],
+    "local_images": [
+      "assets/products/feathered-cheater-skin-0.webp",
+      "assets/products/feathered-cheater-skin-1.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "flora-fascinator",
+    "name": "Asew Maame",
+    "description": "",
+    "price": 170,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/flora-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/cf41d707-6283-4b68-ba0b-1870f5418487/original.webp"
+    ],
+    "local_images": [
+      "assets/products/flora-fascinator-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "flowered-orbits-facinator",
+    "name": "Flowered Orbits Facinator",
+    "description": "",
+    "price": 150,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/flowered-orbits-facinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/4148fb5d-36e5-4054-b3d0-b5fff6c695ee/original.webp"
+    ],
+    "local_images": [
+      "assets/products/flowered-orbits-facinator-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "ivory-feathered-facinator",
+    "name": "Ivory feathered facinator",
+    "description": "",
+    "price": 100,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/ivory-feathered-facinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/efcd1bd4-ac90-4095-809c-4b748c3d2a8e/original.webp"
+    ],
+    "local_images": [
+      "assets/products/ivory-feathered-facinator-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "luxury-hat",
+    "name": "Luxury Hat",
+    "description": "",
+    "price": 1000,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/luxury-hat",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/e5085a8f-e61e-462f-bbde-85c9b658b603/original.webp"
+    ],
+    "local_images": [
+      "assets/products/luxury-hat-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "mini-creole-flowery-facinator",
+    "name": "Mini Creole Flowery Facinator",
+    "description": "",
+    "price": 350,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/mini-creole-flowery-facinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/7fe3f862-5dea-4d58-b40a-8b091e117efe/original.webp"
+    ],
+    "local_images": [
+      "assets/products/mini-creole-flowery-facinator-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "modern-alien-dish-hatinator",
+    "name": "Modern Alien Dish Hatinator",
+    "description": "Comes in all colors, just let us know your color.",
+    "price": 180,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/modern-alien-dish-hatinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/d692cbf8-103d-4096-8ba3-372899a89361/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/d1be479e-7b3b-4c4a-bf46-20f80d19ee60/original.webp"
+    ],
+    "local_images": [
+      "assets/products/modern-alien-dish-hatinator-0.webp",
+      "assets/products/modern-alien-dish-hatinator-1.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "orange-and-purple",
+    "name": "Orange and purple",
+    "description": "",
+    "price": 40,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/orange-and-purple",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/eec5400c-e425-4e48-9432-488a0248a883/original.webp"
+    ],
+    "local_images": [
+      "assets/products/orange-and-purple-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "orange-peral-fascinator",
+    "name": "orange pearl fascinator",
+    "description": "",
+    "price": 100,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/orange-peral-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/a1e9d273-1cfb-4087-8c4d-c36fb37fdc3e/original.webp"
+    ],
+    "local_images": [
+      "assets/products/orange-peral-fascinator-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "pink-beaded-fascinator",
+    "name": "pink beaded fascinator",
+    "description": "",
+    "price": 270,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/pink-beaded-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/d4d7e869-2335-4704-b954-e1ba9a9bf3f3/original.webp"
+    ],
+    "local_images": [
+      "assets/products/pink-beaded-fascinator-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "premium-hostess-hatinator",
+    "name": "Premium Hostess Hatinator",
+    "description": "Comes in all colors, just pick your color.",
+    "price": 250,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/premium-hostess-hatinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/7769427e-693b-4475-9559-23616cad2bd7/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/1bf27302-b430-4db7-b446-c2a95da030b0/original.webp"
+    ],
+    "local_images": [
+      "assets/products/premium-hostess-hatinator-0.webp",
+      "assets/products/premium-hostess-hatinator-1.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "princess-pokah-hatinator",
+    "name": "Princess Pokah Hatinator",
+    "description": "Comes in all colors, just let us know.",
+    "price": 130,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/princess-pokah-hatinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/6ab98402-7d13-414a-92a5-39b646841e7b/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/1a324fe4-f319-418f-b20d-1603c905156a/original.webp"
+    ],
+    "local_images": [
+      "assets/products/princess-pokah-hatinator-0.webp",
+      "assets/products/princess-pokah-hatinator-1.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "puffy-net-spiral-fascinator",
+    "name": "Puffy Net Spiral Fascinator",
+    "description": "",
+    "price": 60,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/puffy-net-spiral-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/9f3023a8-211f-4442-8c28-ef0b26ec02fa/original.webp"
+    ],
+    "local_images": [
+      "assets/products/puffy-net-spiral-fascinator-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "rising-scribble",
+    "name": "Rising Scribble",
+    "description": "All color combinations available, just let us know",
+    "price": 160,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/rising-scribble",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/dc1b36a3-01cc-4d0b-909d-2d095a464c60/original.webp"
+    ],
+    "local_images": [
+      "assets/products/rising-scribble-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "scarlet-feathered",
+    "name": "Scarlet Feathered",
+    "description": "",
+    "price": 150,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/scarlet-feathered",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/9aace48b-ba95-4908-9bfd-7757848e803d/original.webp"
+    ],
+    "local_images": [
+      "assets/products/scarlet-feathered-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats",
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "siliver-lungulungu-mesh",
+    "name": "Siliver Lungulungu Mesh",
+    "description": "",
+    "price": 120,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/siliver-lungulungu-mesh",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/ee3442df-f1e3-45a3-a6de-8511e8949283/original.webp"
+    ],
+    "local_images": [
+      "assets/products/siliver-lungulungu-mesh-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "soft-face-net",
+    "name": "Soft Face Net",
+    "description": "",
+    "price": 140,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/soft-face-net",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/eb867581-2375-44fb-aa41-170d8e84ffa8/original.webp"
+    ],
+    "local_images": [
+      "assets/products/soft-face-net-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  },
+  {
+    "slug": "spiral-orange",
+    "name": "spiral orange",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/spiral-orange",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/ce51e296-6072-402a-95c7-a2274120261b/original.webp"
+    ],
+    "local_images": [
+      "assets/products/spiral-orange-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "spiral-wonder-fascinator",
+    "name": "Spiral Wonder Fascinator",
+    "description": "",
+    "price": 150,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/spiral-wonder-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/46ecc5e2-f04e-4405-b459-dc143eae1c7d/original.webp",
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/01d4309d-68c3-49f7-9fef-2b9960bdfc0e/original.webp"
+    ],
+    "local_images": [
+      "assets/products/spiral-wonder-fascinator-0.webp",
+      "assets/products/spiral-wonder-fascinator-1.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "vibrant-orange-mesh",
+    "name": "vibrant orange mesh",
+    "description": "",
+    "price": 120,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/vibrant-orange-mesh",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/31615202-858c-42f2-a8db-8f7792961125/original.webp"
+    ],
+    "local_images": [
+      "assets/products/vibrant-orange-mesh-0.webp"
+    ],
+    "collections": [
+      "wonderfull-jesus-promo"
+    ]
+  },
+  {
+    "slug": "white-bridal-fascinator",
+    "name": "White Bridal Fascinator",
+    "description": "",
+    "price": 150,
+    "currency": "GHS",
+    "availability": "PreOrder",
+    "url": "https://facinated.com/products/white-bridal-fascinator",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmsx79vfd000027pg9a5v8svl/media/04ff43ed-aa12-44db-b061-e4139c2ac739/original.webp"
+    ],
+    "local_images": [
+      "assets/products/white-bridal-fascinator-0.webp"
+    ],
+    "collections": [
+      "fascinators-hats"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "week": "2026-11-02",
+  "theme": "Wedding season warm-up: get them choosing, show the range, make ordering easy",
+  "posts": [
+    {
+      "id": "1-mon-which-one",
+      "date": "2026-11-02",
+      "time": "19:00",
+      "format": "Poll carousel",
+      "goal": "Comments (the algorithm rewards them) and a reason to DM",
+      "slides": [
+        {"type": "cover", "product": "mini-creole-flowery-facinator", "kicker": "Wedding guest edit", "headline": "Saturday's wedding. Which one are you wearing?", "sub": "Swipe and comment 1, 2 or 3"},
+        {"type": "product", "product": "emerald-fascinator", "number": 1, "label": "Option one"},
+        {"type": "product", "product": "scarlet-feathered", "number": 2, "label": "Option two"},
+        {"type": "product", "product": "mini-creole-flowery-facinator", "number": 3, "label": "Option three"},
+        {"type": "cta", "kicker": "Your number?", "headline": "Drop it in the comments", "lines": ["Every piece comes in your colour", "Order on WhatsApp: 053 476 3923", "Shop: facinated.com"]}
+      ],
+      "caption_tiktok": "Saturday's wedding: 1, 2 or 3? 👀 Comment your pick 👇 #facinated #fascinator #ghanawedding #weddingguest #accrafashion #ghanatiktok",
+      "caption_instagram": "Saturday's wedding is sorted. The only question is which one 👀\n\n1. Emerald Fascinator: GHS 150\n2. Scarlet Feathered: GHS 150\n3. Mini Creole Flowery: GHS 350\n\nComment your number below 👇 Can't decide? Send us your outfit on WhatsApp (053 476 3923) and we'll match you.\n\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #weddingguest #ghanawedding #ghanaweddings #accrafashion #hatinator #weddingguestlook #madeinghana"
+    },
+    {
+      "id": "2-tue-under-100",
+      "date": "2026-11-03",
+      "time": "19:00",
+      "format": "Price-reveal carousel",
+      "goal": "Saves and shares; answers 'is it expensive?' before they ask",
+      "slides": [
+        {"type": "cover", "product": "puffy-net-spiral-fascinator", "kicker": "Price reveal", "headline": "Fascinators under GHS\u00a0100", "sub": "Yes, really. Swipe"},
+        {"type": "product", "product": "classic-prestine-flower-fascinator", "label": "Ready now"},
+        {"type": "product", "product": "cmu19co2700022jqpm80ko0yd", "label": "Any colour"},
+        {"type": "product", "product": "puffy-net-spiral-fascinator", "label": "Ready now"},
+        {"type": "product", "product": "spiral-orange"},
+        {"type": "product", "product": "copper-loop-fascinator"},
+        {"type": "cta", "kicker": "Save this", "headline": "Looking expensive doesn't have to be", "lines": ["Order on WhatsApp: 053 476 3923", "Shop: facinated.com"]}
+      ],
+      "caption_tiktok": "Fascinators under GHS 100 🤯 Which one would you pick? #facinated #fascinator #affordablefashion #ghanatiktok #accra #churchoutfit",
+      "caption_instagram": "Who said looking expensive has to be expensive? ✨\n\nEvery piece here is under GHS 100, and some are ready to go today. Save this for your next occasion 📌\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #affordablefashion #accrafashion #ghanafashion #churchoutfit #sundaybest #madeinghana"
+    },
+    {
+      "id": "3-wed-any-colour",
+      "date": "2026-11-04",
+      "time": "19:00",
+      "format": "Custom-colour carousel",
+      "goal": "Remove the 'it won't match my outfit' objection; drive WhatsApp DMs",
+      "slides": [
+        {"type": "cover", "product": "modern-alien-dish-hatinator", "kicker": "Made to match", "headline": "Love it, but not the colour?", "sub": "We'll make it in yours."},
+        {"type": "product", "product": "modern-alien-dish-hatinator", "label": "Any colour", "note": "made to order"},
+        {"type": "product", "product": "premium-hostess-hatinator", "label": "Any colour", "note": "made to order"},
+        {"type": "product", "product": "princess-pokah-hatinator", "label": "Any colour", "note": "made to order"},
+        {"type": "product", "product": "bloomy-gloom", "label": "Any colour", "note": "made to order"},
+        {"type": "cta", "kicker": "How it works", "headline": "Send us your fabric. We'll match it.", "lines": ["1. Snap your outfit or fabric", "2. WhatsApp it to 053 476 3923", "3. We make your piece to match"]}
+      ],
+      "caption_tiktok": "Your fabric + our hatinator = perfect match 🎨 Send us your colour #facinated #hatinator #asoebi #ghanawedding #customfashion #ghanatiktok",
+      "caption_instagram": "Found the perfect piece but it's not in your colour? That's never a problem here 🎨\n\nThese hatinators are made to order in ANY colour. Snap your outfit or fabric, WhatsApp us on 053 476 3923, and we'll make yours to match. Perfect for asoebi and family colours.\n\n🛍 facinated.com (link in bio)\n\n#facinated #hatinator #fascinator #asoebi #ghanawedding #custommade #madeinghana #accrafashion #weddingguest"
+    },
+    {
+      "id": "4-thu-spotlight",
+      "date": "2026-11-05",
+      "time": "19:00",
+      "format": "Single-piece spotlight",
+      "goal": "Desire for a signature piece; show the detail",
+      "slides": [
+        {"type": "cover", "product": "bean-flower-hatinator", "image": 0, "kicker": "Piece of the week", "headline": "The Bean Flower Hatinator", "sub": "For when you're the one they'll talk about after"},
+        {"type": "product", "product": "bean-flower-hatinator", "image": 1, "label": "The detail"},
+        {"type": "product", "product": "bean-flower-hatinator", "image": 2, "label": "The angle"},
+        {"type": "cta", "kicker": "Reserve yours", "headline": "Made for your moment", "lines": ["GHS 160 · any colour", "Order on WhatsApp: 053 476 3923", "Shop: facinated.com"]}
+      ],
+      "caption_tiktok": "Piece of the week: the Bean Flower Hatinator 🌺 Would you wear it? #facinated #hatinator #fascinator #ghanafashion #weddingguest #accra",
+      "caption_instagram": "Piece of the week: The Bean Flower Hatinator 🌺\n\nSculpted, statement-making, and made in any colour you love. This is the one people remember long after the photos are taken.\n\nGHS 160. Reserve yours on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #hatinator #fascinator #statementpiece #ghanafashion #accrafashion #weddingguest #madeinghana #millinery"
+    },
+    {
+      "id": "5-fri-bridal",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "format": "Collection carousel",
+      "goal": "Reach brides early in wedding season (big-ticket, bridal party orders)",
+      "slides": [
+        {"type": "cover", "product": "white-bridal-fascinator", "kicker": "The bridal edit", "headline": "For the bride, and the girls beside her", "sub": "Wedding season is here"},
+        {"type": "grid", "kicker": "The bridal edit", "headline": "Soft. White. Unforgettable.", "products": ["white-bridal-fascinator", "brida-fascinator", "ivory-feathered-facinator", "siliver-lungulungu-mesh"], "sub": "Swipe for each piece"},
+        {"type": "product", "product": "white-bridal-fascinator"},
+        {"type": "product", "product": "brida-fascinator"},
+        {"type": "product", "product": "ivory-feathered-facinator"},
+        {"type": "product", "product": "soft-face-net", "label": "Add a face net"},
+        {"type": "cta", "kicker": "Brides & bridesmaids", "headline": "Dressing the whole bridal party?", "lines": ["WhatsApp us for matching sets", "053 476 3923", "Shop: facinated.com"]}
+      ],
+      "caption_tiktok": "The bridal edit 🤍 Tag a bride-to-be #facinated #ghanabride #bridalfascinator #ghanawedding #bridesmaids #weddingseason",
+      "caption_instagram": "For the bride, and the girls beside her 🤍\n\nOur bridal edit is here for wedding season: soft whites, delicate feathers, and face nets made for that walk down the aisle.\n\nDressing the whole bridal party? WhatsApp us on 053 476 3923 for matching sets.\n\nTag a bride-to-be 👇\n🛍 facinated.com (link in bio)\n\n#facinated #ghanabride #ghanawedding #bridalfascinator #bridalheadpiece #bridesmaids #weddingseason #accrabride #madeinghana"
+    },
+    {
+      "id": "6-sat-sunday-best",
+      "date": "2026-11-07",
+      "time": "10:00",
+      "format": "Collection carousel",
+      "goal": "Catch the Saturday 'what am I wearing tomorrow' moment",
+      "slides": [
+        {"type": "cover", "product": "rising-scribble", "kicker": "Sunday best", "headline": "Tomorrow's church look, sorted", "sub": "Swipe for the line-up"},
+        {"type": "product", "product": "rising-scribble"},
+        {"type": "product", "product": "couture-black-fascinator"},
+        {"type": "product", "product": "fascinator-with-pearl-accents"},
+        {"type": "product", "product": "elegant-orange"},
+        {"type": "cta", "kicker": "Sunday best", "headline": "Show up dressed for the occasion", "lines": ["Order on WhatsApp: 053 476 3923", "Shop: facinated.com"]}
+      ],
+      "caption_tiktok": "Tomorrow's church look, sorted ⛪✨ Which one? #facinated #churchoutfit #sundaybest #fascinator #ghanatiktok #churchgirl",
+      "caption_instagram": "Tomorrow's church look, sorted ⛪✨\n\nFrom bold scribbles to soft pearls, there's a piece for every Sunday mood. Which one are you reaching for?\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #sundaybest #churchoutfit #churchfashion #fascinator #accrafashion #ghanafashion #madeinghana"
+    },
+    {
+      "id": "7-sun-ready-now",
+      "date": "2026-11-08",
+      "time": "14:00",
+      "format": "In-stock carousel",
+      "goal": "Urgency: no pre-order wait, buy today",
+      "slides": [
+        {"type": "cover", "product": "african-flat-bowl-fascinator", "kicker": "No waiting", "headline": "Ready to wear this week", "sub": "In stock now. No pre-order needed"},
+        {"type": "product", "product": "african-flat-bowl-fascinator", "label": "In stock"},
+        {"type": "product", "product": "spiral-wonder-fascinator", "label": "In stock"},
+        {"type": "product", "product": "pink-beaded-fascinator", "label": "In stock"},
+        {"type": "product", "product": "classic-prestine-flower-fascinator", "label": "In stock"},
+        {"type": "cta", "kicker": "Event this week?", "headline": "Grab yours before it's gone", "lines": ["In stock pieces ship right away", "Order on WhatsApp: 053 476 3923", "Shop: facinated.com"]}
+      ],
+      "caption_tiktok": "Event this week? These are ready now 🏃🏾‍♀️ #facinated #fascinator #instock #ghanafashion #accra #weddingguest",
+      "caption_instagram": "Got an event this week and no time to wait? 🏃🏾‍♀️\n\nThese pieces are in stock and ready to go right now, with no pre-order needed. Once they're gone, they're gone.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #instock #readytowear #accrafashion #ghanafashion #weddingguest #churchoutfit #madeinghana"
+    }
+  ],
+  "film_brief": {
+    "title": "Optional: 5 minutes of filming this week",
+    "why": "A real person wearing the piece is what TikTok pushes hardest. These clips become next week's Reels/TikTok videos.",
+    "shots": [
+      "Put on the Emerald Fascinator in a mirror, from bare head to finished look (10 sec)",
+      "Slowly turn your head left, then right, wearing any feathered piece, in daylight by a window (5 sec)",
+      "Hands only: pinning a fascinator into place (5 sec)",
+      "Flat lay: 4 to 5 pieces on a table, phone held straight down, slow pan (8 sec)"
+    ]
+  }
+}

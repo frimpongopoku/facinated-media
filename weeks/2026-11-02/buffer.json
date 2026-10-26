@@ -1,0 +1,72 @@
+{
+  "1-mon-which-one/tiktok": {
+    "id": "6adf54511566cd029ea0d221",
+    "dueAt": "2026-11-02T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-tue-under-100/tiktok": {
+    "id": "6adf545800bfbbae7002c4ac",
+    "dueAt": "2026-11-03T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-wed-any-colour/tiktok": {
+    "id": "6adf546107b13e9a888da0ff",
+    "dueAt": "2026-11-04T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-thu-spotlight/tiktok": {
+    "id": "6adf546700bfbbae7002c73c",
+    "dueAt": "2026-11-05T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-bridal/tiktok": {
+    "id": "6adf546e8f8d1eab42cf4fe0",
+    "dueAt": "2026-11-06T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-sat-sunday-best/tiktok": {
+    "id": "6adf5475db969f17543f81ef",
+    "dueAt": "2026-11-07T10:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-sun-ready-now/tiktok": {
+    "id": "6adf547e07b13e9a888da793",
+    "dueAt": "2026-11-08T14:00:00.000Z",
+    "status": "scheduled"
+  },
+  "1-mon-which-one/instagram": {
+    "id": "6adf548d07b13e9a888daab0",
+    "dueAt": "2026-11-02T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-tue-under-100/instagram": {
+    "id": "6adf548f00bfbbae7002d491",
+    "dueAt": "2026-11-03T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-wed-any-colour/instagram": {
+    "id": "6adf54908f8d1eab42cf57cf",
+    "dueAt": "2026-11-04T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-thu-spotlight/instagram": {
+    "id": "6adf54921566cd029ea0dfd6",
+    "dueAt": "2026-11-05T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-bridal/instagram": {
+    "id": "6adf54938f8d1eab42cf599b",
+    "dueAt": "2026-11-06T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-sat-sunday-best/instagram": {
+    "id": "6adf54958f8d1eab42cf59e9",
+    "dueAt": "2026-11-07T10:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-sun-ready-now/instagram": {
+    "id": "6adf54961566cd029ea0e08e",
+    "dueAt": "2026-11-08T14:00:00.000Z",
+    "status": "scheduled"
+  }
+}

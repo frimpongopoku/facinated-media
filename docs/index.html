@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Facinated Content Week</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,400&family=Jost:wght@400;500;600&display=swap">
+<style>
+/* Layout: a single editorial column, one day per section, slides as a swipeable strip like the phone will show them */
+:root {
+  --bg: #f6efe6; --surface: #fffaf3; --ink: #2a1b17; --muted: #7a6559;
+  --wine: #6e1a2e; --gold: #a07a3f; --line: #e4d6c6;
+  --display: "Playfair Display", Georgia, "Times New Roman", serif;
+  --body: "Jost", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #1d1311; --surface: #2a1c19; --ink: #f3e9de; --muted: #bba79a;
+  --wine: #e38aa0; --gold: #d2ac6c; --line: #3e2b26; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #1d1311; --surface: #2a1c19; --ink: #f3e9de; --muted: #bba79a;
+  --wine: #e38aa0; --gold: #d2ac6c; --line: #3e2b26; color-scheme: dark }
+* { box-sizing: border-box }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--body); }
+.wrap { max-width: 980px; margin: 0 auto; padding-block: 48px 80px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.eyebrow { font: 600 12px/1 var(--body); letter-spacing: .18em; text-transform: uppercase; color: var(--gold); }
+.masthead { display: grid; gap: 14px; padding-bottom: 32px; border-bottom: 1px solid var(--line); }
+h1 { font: 700 clamp(34px, 6vw, 56px)/1.05 var(--display); margin: 0; text-wrap: balance; }
+h1 em { font-weight: 400; color: var(--wine); }
+.lede { margin: 0; max-width: 62ch; color: var(--muted); font-size: 17px; }
+.toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; margin-top: 8px; }
+.stats { color: var(--muted); font-size: 14px; }
+.toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 3px; background: var(--surface); }
+.toggle button { font: 500 14px var(--body); border: 0; background: none; color: var(--muted); padding: 7px 16px; border-radius: 999px; cursor: pointer; }
+.toggle button[aria-pressed="true"] { background: var(--wine); color: var(--surface); }
+.post { display: grid; gap: 20px; padding-block: 40px; border-bottom: 1px solid var(--line); }
+.post-head { display: grid; grid-template-columns: 150px 1fr auto; gap: 20px; align-items: start; }
+.when { display: grid; gap: 2px; }
+.dow { font: 700 26px/1.1 var(--display); color: var(--wine); }
+.date { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.what { min-width: 0; }
+h2 { font: 500 22px/1.2 var(--display); margin: 0 0 4px; }
+.goal { margin: 0; color: var(--muted); font-size: 15px; }
+.count { font-size: 13px; color: var(--muted); white-space: nowrap; padding-top: 6px; }
+.strip { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; }
+.strip img { flex: 0 0 auto; height: 380px; width: auto; max-width: none; border-radius: 6px; scroll-snap-align: start; background: var(--line); }
+.strip[data-platform="instagram"] img { height: 320px; }
+.caps { display: grid; grid-template-columns: 1fr 1.4fr; gap: 16px; }
+.cap { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px 18px; min-width: 0; }
+.cap-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+.cap-text { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; font-size: 15px; }
+.copy { font: 500 13px var(--body); color: var(--wine); background: none; border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; cursor: pointer; }
+button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.brief { margin-top: 40px; padding: 28px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; display: grid; gap: 10px; }
+.brief p { margin: 0; color: var(--muted); max-width: 62ch; }
+.brief ol { margin: 0; padding-left: 22px; display: grid; gap: 6px; }
+.foot { margin-top: 32px; color: var(--muted); font-size: 14px; max-width: 62ch; }
+@media (max-width: 680px) {
+  .post-head { grid-template-columns: 1fr; gap: 6px; }
+  .count { padding-top: 0; }
+  .caps { grid-template-columns: 1fr; }
+  .strip img { height: 300px; }
+  .strip[data-platform="instagram"] img { height: 260px; }
+}
+</style>
+<div class="wrap">
+  <header class="masthead">
+    <span class="eyebrow">Facinated · This week</span>
+    <h1>Your week of posts, <em>2–8 November 2026</em></h1>
+    <p class="lede">Wedding season warm-up: get them choosing, show the range, make ordering easy. Each day posts to TikTok as a photo slideshow and to Instagram as a carousel. Swipe each row to see every slide.</p>
+    <div class="toolbar">
+      <span class="stats">7 posts · 41 slides each platform · made from your website photos</span>
+      <div class="toggle" role="group" aria-label="Show slides for">
+        <button type="button" id="show-tiktok" data-show="tiktok" aria-pressed="true">TikTok 9:16</button>
+        <button type="button" id="show-instagram" data-show="instagram" aria-pressed="false">Instagram 4:5</button>
+      </div>
+    </div>
+  </header>
+  
+  <article class="post" id="1-mon-which-one">
+    <header class="post-head">
+      <div class="when">
+        <span class="dow">Monday</span>
+        <span class="date">2 Nov · 19:00 GMT</span>
+      </div>
+      <div class="what">
+        <h2>Poll carousel</h2>
+        <p class="goal">Comments (the algorithm rewards them) and a reason to DM</p>
+      </div>
+      <span class="count">5 slides</span>
+    </header>
+    <div class="strip" data-platform="tiktok"><img src="img/1-mon-which-one/tiktok/01.jpg" alt="Poll carousel, slide 1" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/1-mon-which-one/tiktok/02.jpg" alt="Poll carousel, slide 2" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/1-mon-which-one/tiktok/03.jpg" alt="Poll carousel, slide 3" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/1-mon-which-one/tiktok/04.jpg" alt="Poll carousel, slide 4" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/1-mon-which-one/tiktok/05.jpg" alt="Poll carousel, slide 5" loading="lazy" style="aspect-ratio:9 / 16"></div><div class="strip" data-platform="instagram" hidden><img src="img/1-mon-which-one/instagram/01.jpg" alt="Poll carousel, slide 1" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/1-mon-which-one/instagram/02.jpg" alt="Poll carousel, slide 2" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/1-mon-which-one/instagram/03.jpg" alt="Poll carousel, slide 3" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/1-mon-which-one/instagram/04.jpg" alt="Poll carousel, slide 4" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/1-mon-which-one/instagram/05.jpg" alt="Poll carousel, slide 5" loading="lazy" style="aspect-ratio:4 / 5"></div>
+    <div class="caps">
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">TikTok caption</span>
+          <button type="button" class="copy" data-target="1-mon-which-one-tt">Copy</button></div>
+        <p id="1-mon-which-one-tt" class="cap-text">Saturday&#x27;s wedding: 1, 2 or 3? 👀 Comment your pick 👇 #facinated #fascinator #ghanawedding #weddingguest #accrafashion #ghanatiktok</p>
+      </div>
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">Instagram caption</span>
+          <button type="button" class="copy" data-target="1-mon-which-one-ig">Copy</button></div>
+        <p id="1-mon-which-one-ig" class="cap-text">Saturday&#x27;s wedding is sorted. The only question is which one 👀
+
+1. Emerald Fascinator: GHS 150
+2. Scarlet Feathered: GHS 150
+3. Mini Creole Flowery: GHS 350
+
+Comment your number below 👇 Can&#x27;t decide? Send us your outfit on WhatsApp (053 476 3923) and we&#x27;ll match you.
+
+🛍 facinated.com (link in bio)
+
+#facinated #fascinator #fascinators #weddingguest #ghanawedding #ghanaweddings #accrafashion #hatinator #weddingguestlook #madeinghana</p>
+      </div>
+    </div>
+  </article>
+  <article class="post" id="2-tue-under-100">
+    <header class="post-head">
+      <div class="when">
+        <span class="dow">Tuesday</span>
+        <span class="date">3 Nov · 19:00 GMT</span>
+      </div>
+      <div class="what">
+        <h2>Price-reveal carousel</h2>
+        <p class="goal">Saves and shares; answers &#x27;is it expensive?&#x27; before they ask</p>
+      </div>
+      <span class="count">7 slides</span>
+    </header>
+    <div class="strip" data-platform="tiktok"><img src="img/2-tue-under-100/tiktok/01.jpg" alt="Price-reveal carousel, slide 1" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/2-tue-under-100/tiktok/02.jpg" alt="Price-reveal carousel, slide 2" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/2-tue-under-100/tiktok/03.jpg" alt="Price-reveal carousel, slide 3" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/2-tue-under-100/tiktok/04.jpg" alt="Price-reveal carousel, slide 4" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/2-tue-under-100/tiktok/05.jpg" alt="Price-reveal carousel, slide 5" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/2-tue-under-100/tiktok/06.jpg" alt="Price-reveal carousel, slide 6" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/2-tue-under-100/tiktok/07.jpg" alt="Price-reveal carousel, slide 7" loading="lazy" style="aspect-ratio:9 / 16"></div><div class="strip" data-platform="instagram" hidden><img src="img/2-tue-under-100/instagram/01.jpg" alt="Price-reveal carousel, slide 1" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/2-tue-under-100/instagram/02.jpg" alt="Price-reveal carousel, slide 2" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/2-tue-under-100/instagram/03.jpg" alt="Price-reveal carousel, slide 3" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/2-tue-under-100/instagram/04.jpg" alt="Price-reveal carousel, slide 4" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/2-tue-under-100/instagram/05.jpg" alt="Price-reveal carousel, slide 5" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/2-tue-under-100/instagram/06.jpg" alt="Price-reveal carousel, slide 6" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/2-tue-under-100/instagram/07.jpg" alt="Price-reveal carousel, slide 7" loading="lazy" style="aspect-ratio:4 / 5"></div>
+    <div class="caps">
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">TikTok caption</span>
+          <button type="button" class="copy" data-target="2-tue-under-100-tt">Copy</button></div>
+        <p id="2-tue-under-100-tt" class="cap-text">Fascinators under GHS 100 🤯 Which one would you pick? #facinated #fascinator #affordablefashion #ghanatiktok #accra #churchoutfit</p>
+      </div>
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">Instagram caption</span>
+          <button type="button" class="copy" data-target="2-tue-under-100-ig">Copy</button></div>
+        <p id="2-tue-under-100-ig" class="cap-text">Who said looking expensive has to be expensive? ✨
+
+Every piece here is under GHS 100, and some are ready to go today. Save this for your next occasion 📌
+
+Order on WhatsApp: 053 476 3923
+🛍 facinated.com (link in bio)
+
+#facinated #fascinator #fascinators #affordablefashion #accrafashion #ghanafashion #churchoutfit #sundaybest #madeinghana</p>
+      </div>
+    </div>
+  </article>
+  <article class="post" id="3-wed-any-colour">
+    <header class="post-head">
+      <div class="when">
+        <span class="dow">Wednesday</span>
+        <span class="date">4 Nov · 19:00 GMT</span>
+      </div>
+      <div class="what">
+        <h2>Custom-colour carousel</h2>
+        <p class="goal">Remove the &#x27;it won&#x27;t match my outfit&#x27; objection; drive WhatsApp DMs</p>
+      </div>
+      <span class="count">6 slides</span>
+    </header>
+    <div class="strip" data-platform="tiktok"><img src="img/3-wed-any-colour/tiktok/01.jpg" alt="Custom-colour carousel, slide 1" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/3-wed-any-colour/tiktok/02.jpg" alt="Custom-colour carousel, slide 2" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/3-wed-any-colour/tiktok/03.jpg" alt="Custom-colour carousel, slide 3" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/3-wed-any-colour/tiktok/04.jpg" alt="Custom-colour carousel, slide 4" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/3-wed-any-colour/tiktok/05.jpg" alt="Custom-colour carousel, slide 5" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/3-wed-any-colour/tiktok/06.jpg" alt="Custom-colour carousel, slide 6" loading="lazy" style="aspect-ratio:9 / 16"></div><div class="strip" data-platform="instagram" hidden><img src="img/3-wed-any-colour/instagram/01.jpg" alt="Custom-colour carousel, slide 1" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/3-wed-any-colour/instagram/02.jpg" alt="Custom-colour carousel, slide 2" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/3-wed-any-colour/instagram/03.jpg" alt="Custom-colour carousel, slide 3" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/3-wed-any-colour/instagram/04.jpg" alt="Custom-colour carousel, slide 4" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/3-wed-any-colour/instagram/05.jpg" alt="Custom-colour carousel, slide 5" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/3-wed-any-colour/instagram/06.jpg" alt="Custom-colour carousel, slide 6" loading="lazy" style="aspect-ratio:4 / 5"></div>
+    <div class="caps">
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">TikTok caption</span>
+          <button type="button" class="copy" data-target="3-wed-any-colour-tt">Copy</button></div>
+        <p id="3-wed-any-colour-tt" class="cap-text">Your fabric + our hatinator = perfect match 🎨 Send us your colour #facinated #hatinator #asoebi #ghanawedding #customfashion #ghanatiktok</p>
+      </div>
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">Instagram caption</span>
+          <button type="button" class="copy" data-target="3-wed-any-colour-ig">Copy</button></div>
+        <p id="3-wed-any-colour-ig" class="cap-text">Found the perfect piece but it&#x27;s not in your colour? That&#x27;s never a problem here 🎨
+
+These hatinators are made to order in ANY colour. Snap your outfit or fabric, WhatsApp us on 053 476 3923, and we&#x27;ll make yours to match. Perfect for asoebi and family colours.
+
+🛍 facinated.com (link in bio)
+
+#facinated #hatinator #fascinator #asoebi #ghanawedding #custommade #madeinghana #accrafashion #weddingguest</p>
+      </div>
+    </div>
+  </article>
+  <article class="post" id="4-thu-spotlight">
+    <header class="post-head">
+      <div class="when">
+        <span class="dow">Thursday</span>
+        <span class="date">5 Nov · 19:00 GMT</span>
+      </div>
+      <div class="what">
+        <h2>Single-piece spotlight</h2>
+        <p class="goal">Desire for a signature piece; show the detail</p>
+      </div>
+      <span class="count">4 slides</span>
+    </header>
+    <div class="strip" data-platform="tiktok"><img src="img/4-thu-spotlight/tiktok/01.jpg" alt="Single-piece spotlight, slide 1" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/4-thu-spotlight/tiktok/02.jpg" alt="Single-piece spotlight, slide 2" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/4-thu-spotlight/tiktok/03.jpg" alt="Single-piece spotlight, slide 3" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/4-thu-spotlight/tiktok/04.jpg" alt="Single-piece spotlight, slide 4" loading="lazy" style="aspect-ratio:9 / 16"></div><div class="strip" data-platform="instagram" hidden><img src="img/4-thu-spotlight/instagram/01.jpg" alt="Single-piece spotlight, slide 1" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/4-thu-spotlight/instagram/02.jpg" alt="Single-piece spotlight, slide 2" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/4-thu-spotlight/instagram/03.jpg" alt="Single-piece spotlight, slide 3" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/4-thu-spotlight/instagram/04.jpg" alt="Single-piece spotlight, slide 4" loading="lazy" style="aspect-ratio:4 / 5"></div>
+    <div class="caps">
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">TikTok caption</span>
+          <button type="button" class="copy" data-target="4-thu-spotlight-tt">Copy</button></div>
+        <p id="4-thu-spotlight-tt" class="cap-text">Piece of the week: the Bean Flower Hatinator 🌺 Would you wear it? #facinated #hatinator #fascinator #ghanafashion #weddingguest #accra</p>
+      </div>
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">Instagram caption</span>
+          <button type="button" class="copy" data-target="4-thu-spotlight-ig">Copy</button></div>
+        <p id="4-thu-spotlight-ig" class="cap-text">Piece of the week: The Bean Flower Hatinator 🌺
+
+Sculpted, statement-making, and made in any colour you love. This is the one people remember long after the photos are taken.
+
+GHS 160. Reserve yours on WhatsApp: 053 476 3923
+🛍 facinated.com (link in bio)
+
+#facinated #hatinator #fascinator #statementpiece #ghanafashion #accrafashion #weddingguest #madeinghana #millinery</p>
+      </div>
+    </div>
+  </article>
+  <article class="post" id="5-fri-bridal">
+    <header class="post-head">
+      <div class="when">
+        <span class="dow">Friday</span>
+        <span class="date">6 Nov · 19:00 GMT</span>
+      </div>
+      <div class="what">
+        <h2>Collection carousel</h2>
+        <p class="goal">Reach brides early in wedding season (big-ticket, bridal party orders)</p>
+      </div>
+      <span class="count">7 slides</span>
+    </header>
+    <div class="strip" data-platform="tiktok"><img src="img/5-fri-bridal/tiktok/01.jpg" alt="Collection carousel, slide 1" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/5-fri-bridal/tiktok/02.jpg" alt="Collection carousel, slide 2" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/5-fri-bridal/tiktok/03.jpg" alt="Collection carousel, slide 3" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/5-fri-bridal/tiktok/04.jpg" alt="Collection carousel, slide 4" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/5-fri-bridal/tiktok/05.jpg" alt="Collection carousel, slide 5" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/5-fri-bridal/tiktok/06.jpg" alt="Collection carousel, slide 6" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/5-fri-bridal/tiktok/07.jpg" alt="Collection carousel, slide 7" loading="lazy" style="aspect-ratio:9 / 16"></div><div class="strip" data-platform="instagram" hidden><img src="img/5-fri-bridal/instagram/01.jpg" alt="Collection carousel, slide 1" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/5-fri-bridal/instagram/02.jpg" alt="Collection carousel, slide 2" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/5-fri-bridal/instagram/03.jpg" alt="Collection carousel, slide 3" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/5-fri-bridal/instagram/04.jpg" alt="Collection carousel, slide 4" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/5-fri-bridal/instagram/05.jpg" alt="Collection carousel, slide 5" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/5-fri-bridal/instagram/06.jpg" alt="Collection carousel, slide 6" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/5-fri-bridal/instagram/07.jpg" alt="Collection carousel, slide 7" loading="lazy" style="aspect-ratio:4 / 5"></div>
+    <div class="caps">
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">TikTok caption</span>
+          <button type="button" class="copy" data-target="5-fri-bridal-tt">Copy</button></div>
+        <p id="5-fri-bridal-tt" class="cap-text">The bridal edit 🤍 Tag a bride-to-be #facinated #ghanabride #bridalfascinator #ghanawedding #bridesmaids #weddingseason</p>
+      </div>
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">Instagram caption</span>
+          <button type="button" class="copy" data-target="5-fri-bridal-ig">Copy</button></div>
+        <p id="5-fri-bridal-ig" class="cap-text">For the bride, and the girls beside her 🤍
+
+Our bridal edit is here for wedding season: soft whites, delicate feathers, and face nets made for that walk down the aisle.
+
+Dressing the whole bridal party? WhatsApp us on 053 476 3923 for matching sets.
+
+Tag a bride-to-be 👇
+🛍 facinated.com (link in bio)
+
+#facinated #ghanabride #ghanawedding #bridalfascinator #bridalheadpiece #bridesmaids #weddingseason #accrabride #madeinghana</p>
+      </div>
+    </div>
+  </article>
+  <article class="post" id="6-sat-sunday-best">
+    <header class="post-head">
+      <div class="when">
+        <span class="dow">Saturday</span>
+        <span class="date">7 Nov · 10:00 GMT</span>
+      </div>
+      <div class="what">
+        <h2>Collection carousel</h2>
+        <p class="goal">Catch the Saturday &#x27;what am I wearing tomorrow&#x27; moment</p>
+      </div>
+      <span class="count">6 slides</span>
+    </header>
+    <div class="strip" data-platform="tiktok"><img src="img/6-sat-sunday-best/tiktok/01.jpg" alt="Collection carousel, slide 1" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/6-sat-sunday-best/tiktok/02.jpg" alt="Collection carousel, slide 2" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/6-sat-sunday-best/tiktok/03.jpg" alt="Collection carousel, slide 3" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/6-sat-sunday-best/tiktok/04.jpg" alt="Collection carousel, slide 4" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/6-sat-sunday-best/tiktok/05.jpg" alt="Collection carousel, slide 5" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/6-sat-sunday-best/tiktok/06.jpg" alt="Collection carousel, slide 6" loading="lazy" style="aspect-ratio:9 / 16"></div><div class="strip" data-platform="instagram" hidden><img src="img/6-sat-sunday-best/instagram/01.jpg" alt="Collection carousel, slide 1" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/6-sat-sunday-best/instagram/02.jpg" alt="Collection carousel, slide 2" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/6-sat-sunday-best/instagram/03.jpg" alt="Collection carousel, slide 3" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/6-sat-sunday-best/instagram/04.jpg" alt="Collection carousel, slide 4" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/6-sat-sunday-best/instagram/05.jpg" alt="Collection carousel, slide 5" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/6-sat-sunday-best/instagram/06.jpg" alt="Collection carousel, slide 6" loading="lazy" style="aspect-ratio:4 / 5"></div>
+    <div class="caps">
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">TikTok caption</span>
+          <button type="button" class="copy" data-target="6-sat-sunday-best-tt">Copy</button></div>
+        <p id="6-sat-sunday-best-tt" class="cap-text">Tomorrow&#x27;s church look, sorted ⛪✨ Which one? #facinated #churchoutfit #sundaybest #fascinator #ghanatiktok #churchgirl</p>
+      </div>
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">Instagram caption</span>
+          <button type="button" class="copy" data-target="6-sat-sunday-best-ig">Copy</button></div>
+        <p id="6-sat-sunday-best-ig" class="cap-text">Tomorrow&#x27;s church look, sorted ⛪✨
+
+From bold scribbles to soft pearls, there&#x27;s a piece for every Sunday mood. Which one are you reaching for?
+
+Order on WhatsApp: 053 476 3923
+🛍 facinated.com (link in bio)
+
+#facinated #sundaybest #churchoutfit #churchfashion #fascinator #accrafashion #ghanafashion #madeinghana</p>
+      </div>
+    </div>
+  </article>
+  <article class="post" id="7-sun-ready-now">
+    <header class="post-head">
+      <div class="when">
+        <span class="dow">Sunday</span>
+        <span class="date">8 Nov · 14:00 GMT</span>
+      </div>
+      <div class="what">
+        <h2>In-stock carousel</h2>
+        <p class="goal">Urgency: no pre-order wait, buy today</p>
+      </div>
+      <span class="count">6 slides</span>
+    </header>
+    <div class="strip" data-platform="tiktok"><img src="img/7-sun-ready-now/tiktok/01.jpg" alt="In-stock carousel, slide 1" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/7-sun-ready-now/tiktok/02.jpg" alt="In-stock carousel, slide 2" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/7-sun-ready-now/tiktok/03.jpg" alt="In-stock carousel, slide 3" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/7-sun-ready-now/tiktok/04.jpg" alt="In-stock carousel, slide 4" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/7-sun-ready-now/tiktok/05.jpg" alt="In-stock carousel, slide 5" loading="lazy" style="aspect-ratio:9 / 16"><img src="img/7-sun-ready-now/tiktok/06.jpg" alt="In-stock carousel, slide 6" loading="lazy" style="aspect-ratio:9 / 16"></div><div class="strip" data-platform="instagram" hidden><img src="img/7-sun-ready-now/instagram/01.jpg" alt="In-stock carousel, slide 1" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/7-sun-ready-now/instagram/02.jpg" alt="In-stock carousel, slide 2" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/7-sun-ready-now/instagram/03.jpg" alt="In-stock carousel, slide 3" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/7-sun-ready-now/instagram/04.jpg" alt="In-stock carousel, slide 4" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/7-sun-ready-now/instagram/05.jpg" alt="In-stock carousel, slide 5" loading="lazy" style="aspect-ratio:4 / 5"><img src="img/7-sun-ready-now/instagram/06.jpg" alt="In-stock carousel, slide 6" loading="lazy" style="aspect-ratio:4 / 5"></div>
+    <div class="caps">
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">TikTok caption</span>
+          <button type="button" class="copy" data-target="7-sun-ready-now-tt">Copy</button></div>
+        <p id="7-sun-ready-now-tt" class="cap-text">Event this week? These are ready now 🏃🏾‍♀️ #facinated #fascinator #instock #ghanafashion #accra #weddingguest</p>
+      </div>
+      
+      <div class="cap">
+        <div class="cap-head"><span class="eyebrow">Instagram caption</span>
+          <button type="button" class="copy" data-target="7-sun-ready-now-ig">Copy</button></div>
+        <p id="7-sun-ready-now-ig" class="cap-text">Got an event this week and no time to wait? 🏃🏾‍♀️
+
+These pieces are in stock and ready to go right now, with no pre-order needed. Once they&#x27;re gone, they&#x27;re gone.
+
+Order on WhatsApp: 053 476 3923
+🛍 facinated.com (link in bio)
+
+#facinated #fascinator #instock #readytowear #accrafashion #ghanafashion #weddingguest #churchoutfit #madeinghana</p>
+      </div>
+    </div>
+  </article>
+  
+  <section class="brief">
+    <span class="eyebrow">Optional: 5 minutes of filming this week</span>
+    <p>A real person wearing the piece is what TikTok pushes hardest. These clips become next week&#x27;s Reels/TikTok videos.</p>
+    <ol><li>Put on the Emerald Fascinator in a mirror, from bare head to finished look (10 sec)</li><li>Slowly turn your head left, then right, wearing any feathered piece, in daylight by a window (5 sec)</li><li>Hands only: pinning a fascinator into place (5 sec)</li><li>Flat lay: 4 to 5 pieces on a table, phone held straight down, slow pan (8 sec)</li></ol>
+  </section>
+  <p class="foot">These posts are scheduled in Buffer and go out automatically. To change something before it posts, edit or delete it in the Buffer app. To steer future weeks, add a line to NOTES.md in the facinated-media repo, or tell Claude.</p>
+</div>
+<script>
+document.querySelectorAll('.toggle button').forEach(btn => btn.addEventListener('click', () => {
+  const show = btn.dataset.show;
+  document.querySelectorAll('.toggle button').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+  document.querySelectorAll('.strip').forEach(s => { s.hidden = s.dataset.platform !== show; });
+}));
+document.querySelectorAll('.copy').forEach(btn => btn.addEventListener('click', () => {
+  const el = document.getElementById(btn.dataset.target);
+  const done = () => { btn.textContent = 'Copied'; setTimeout(() => btn.textContent = 'Copy', 1600); };
+  const fallback = () => { const r = document.createRange(); r.selectNodeContents(el);
+    const s = getSelection(); s.removeAllRanges(); s.addRange(r); btn.textContent = 'Selected'; };
+  try { navigator.clipboard.writeText(el.textContent).then(done, fallback); } catch (e) { fallback(); }
+}));
+</script>
+</html>
