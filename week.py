@@ -18,9 +18,11 @@ MAX_SLIDES = 10  # Instagram carousel limit
 
 
 def next_week(today=None):
-    """The Monday after today, unless that week already has a plan."""
+    """The week starting today if today is Monday, otherwise the coming Monday,
+    unless that week already has a plan. Runs every Monday morning, so a week is
+    planned on the day it starts and Buffer's queue never holds two weeks."""
     today = today or dt.date.today()
-    monday = today + dt.timedelta(days=7 - today.weekday())
+    monday = today + dt.timedelta(days=(7 - today.weekday()) % 7)
     folder = WEEKS / monday.isoformat()
     return None if (folder / "plan.json").exists() else f"weeks/{monday.isoformat()}"
 
