@@ -119,7 +119,10 @@ def post_inputs(week, post, chans, draft):
     if draft:
         base["saveToDraft"] = True
     return {
-        "tiktok": {**base, "channelId": chans["tiktok"]["id"], "text": post["caption_tiktok"],
+        # Buffer can't attach a TikTok sound, so TikTok posts are sent as phone
+        # notifications: Stella opens them in the TikTok app and adds a sound.
+        "tiktok": {**base, "schedulingType": "notification",
+                   "channelId": chans["tiktok"]["id"], "text": post["caption_tiktok"],
                    "assets": [{"image": {"url": u}} for u in image_urls(week, post, "tiktok")],
                    "metadata": {"tiktok": {"title": title[:90]}}},
         "instagram": {**base, "channelId": chans["instagram"]["id"], "text": post["caption_instagram"],

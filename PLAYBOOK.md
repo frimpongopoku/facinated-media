@@ -4,6 +4,9 @@ You are planning one week of social posts for **Facinated** (facinated.com), a
 Ghanaian brand of fascinators, hatinators, hats, headbands and face nets made by
 designer Stella. Every post goes to TikTok (@facinatedbystella, photo slideshow)
 and Instagram (@akosuastellaofficial, carousel) through Buffer.
+TikTok posts go out as Buffer phone notifications (Buffer can't attach a sound):
+Stella taps the notification, adds a trending sound in TikTok and posts.
+Instagram posts publish automatically.
 
 ## Who we're talking to
 

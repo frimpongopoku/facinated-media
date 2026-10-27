@@ -8,12 +8,13 @@
   "1-mon-which-one/tiktok": {
     "id": "6adf58308f8d1eab42d07b02",
     "dueAt": "2026-10-26T19:00:00.000Z",
-    "status": "scheduled"
+    "status": "sent"
   },
   "2-tue-under-100/tiktok": {
     "id": "6adf5834db969f175440bc0d",
     "dueAt": "2026-10-27T19:00:00.000Z",
-    "status": "scheduled"
+    "status": "scheduled",
+    "schedulingType": "notification"
   },
   "2-tue-under-100/instagram": {
     "id": "6adf583807b13e9a888ed2eb",
@@ -23,7 +24,8 @@
   "3-wed-any-colour/tiktok": {
     "id": "6adf583c1566cd029ea225ca",
     "dueAt": "2026-10-28T19:00:00.000Z",
-    "status": "scheduled"
+    "status": "scheduled",
+    "schedulingType": "notification"
   },
   "3-wed-any-colour/instagram": {
     "id": "6adf583f07b13e9a888ed8a3",
@@ -33,7 +35,8 @@
   "4-thu-spotlight/tiktok": {
     "id": "6adf58438f8d1eab42d08966",
     "dueAt": "2026-10-29T19:00:00.000Z",
-    "status": "scheduled"
+    "status": "scheduled",
+    "schedulingType": "notification"
   },
   "4-thu-spotlight/instagram": {
     "id": "6adf5845db969f175440ca0a",
@@ -43,7 +46,8 @@
   "5-fri-bridal/tiktok": {
     "id": "6adf584a07b13e9a888edbd9",
     "dueAt": "2026-10-30T19:00:00.000Z",
-    "status": "scheduled"
+    "status": "scheduled",
+    "schedulingType": "notification"
   },
   "5-fri-bridal/instagram": {
     "id": "6adf584e8f8d1eab42d08bfe",
@@ -53,7 +57,8 @@
   "6-sat-sunday-best/tiktok": {
     "id": "6adf5852db969f175440d1a8",
     "dueAt": "2026-10-31T10:00:00.000Z",
-    "status": "scheduled"
+    "status": "scheduled",
+    "schedulingType": "notification"
   },
   "6-sat-sunday-best/instagram": {
     "id": "6adf58551566cd029ea22ca4",
@@ -63,7 +68,8 @@
   "7-sun-ready-now/tiktok": {
     "id": "6adf585907b13e9a888ee1a7",
     "dueAt": "2026-11-01T14:00:00.000Z",
-    "status": "scheduled"
+    "status": "scheduled",
+    "schedulingType": "notification"
   },
   "7-sun-ready-now/instagram": {
     "id": "6adf585ddb969f175440d42a",
