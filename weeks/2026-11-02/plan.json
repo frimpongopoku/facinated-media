@@ -1,0 +1,327 @@
+{
+ "week": "2026-11-02",
+ "theme": "Wedding season is here: show the range beyond the usual, asoebi colours, and ready-now pieces",
+ "posts": [
+  {
+   "id": "1-mon-which-one",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "format": "Poll carousel",
+   "goal": "Comments and a reason to DM",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "feather-fascinator",
+     "kicker": "Wedding season",
+     "headline": "Saturday's wedding. Which feather are you wearing?",
+     "sub": "Swipe and comment 1, 2 or 3"
+    },
+    {
+     "type": "product",
+     "product": "feather-fascinator",
+     "number": 1,
+     "label": "Option one"
+    },
+    {
+     "type": "product",
+     "product": "flowered-orbits-facinator",
+     "number": 2,
+     "label": "Option two"
+    },
+    {
+     "type": "product",
+     "product": "classic-feathered-facinator",
+     "number": 3,
+     "label": "Option three"
+    },
+    {
+     "type": "cta",
+     "kicker": "Your number?",
+     "headline": "Drop it in the comments",
+     "lines": [
+      "Pieces can be made in your colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Wedding season is here. 1, 2 or 3? 👀 Comment your pick 👇 #facinated #fascinator #ghanawedding #weddingguest #accrafashion #ghanatiktok",
+   "caption_instagram": "Wedding season is here, and Saturday's invitation is already on the fridge 👀\n\n1. Feather Fascinator: GHS 150\n2. Flowered Orbits: GHS 150\n3. Classic Feathered: GHS 130\n\nComment your number below 👇 Can't decide? Send us your outfit on WhatsApp and we'll help you match.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #weddingguest #ghanawedding #ghanaweddings #accrafashion #featheredfascinator #weddingguestlook #madeinghana"
+  },
+  {
+   "id": "2-tue-under-50",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "format": "Price-reveal carousel",
+   "goal": "Saves and shares; answers 'is it expensive?'",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmu19g25700032jqpvkxdt3oc",
+     "kicker": "Price reveal",
+     "headline": "Fascinators from GHS 40",
+     "sub": "Yes, really. Swipe"
+    },
+    {
+     "type": "product",
+     "product": "cmu19bk5j00012jqpw86rjocg"
+    },
+    {
+     "type": "product",
+     "product": "orange-and-purple"
+    },
+    {
+     "type": "product",
+     "product": "cmu19g25700032jqpvkxdt3oc"
+    },
+    {
+     "type": "product",
+     "product": "cmu19co2700022jqpm80ko0yd"
+    },
+    {
+     "type": "cta",
+     "kicker": "Save this",
+     "headline": "Small price. Big occasion.",
+     "lines": [
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Fascinators from GHS 40 🤯 Which one are you taking? #facinated #fascinator #affordablefashion #ghanatiktok #accra #churchoutfit",
+   "caption_instagram": "Who said a good look has to cost a lot? ✨\n\nFour pieces, from GHS 40 to GHS 50. Perfect for church, a naming ceremony or adding to an outfit you already love. Save this for your next occasion 📌\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #affordablefashion #accrafashion #ghanafashion #churchoutfit #sundaybest #madeinghana"
+  },
+  {
+   "id": "3-wed-headbands-nets",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "format": "Collection carousel",
+   "goal": "Widen the range beyond fascinators; saves",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "beaded-head-band",
+     "kicker": "Not just fascinators",
+     "headline": "Headbands and face nets",
+     "sub": "Soft, elegant, easy to wear"
+    },
+    {
+     "type": "grid",
+     "kicker": "The edit",
+     "headline": "Pick your finishing touch",
+     "products": [
+      "beaded-head-band",
+      "bumpy-beaded-head-band",
+      "black-faced-net",
+      "soft-face-net"
+     ],
+     "sub": "Swipe for each one"
+    },
+    {
+     "type": "product",
+     "product": "bumpy-beaded-head-band",
+     "label": "Headband"
+    },
+    {
+     "type": "product",
+     "product": "black-faced-net",
+     "label": "Face net"
+    },
+    {
+     "type": "cta",
+     "kicker": "Finish the look",
+     "headline": "Your outfit, completed",
+     "lines": [
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Not a hat person? Headbands and face nets 🖤 Which one? #facinated #headband #facenet #ghanafashion #weddingguest #accra",
+   "caption_instagram": "Not a hat person? We've got you 🖤\n\nBeaded headbands from GHS 180 and face nets from GHS 140. Elegant, light and easy to wear all day.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #headband #facenet #fascinator #ghanafashion #accrafashion #weddingguest #churchoutfit #madeinghana #beadedheadband"
+  },
+  {
+   "id": "4-thu-statement-hats",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "format": "Statement hats edit",
+   "goal": "Desire for signature pieces",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "luxury-hat",
+     "kicker": "Statement hats",
+     "headline": "For the guest everyone notices",
+     "sub": "Go big or go home"
+    },
+    {
+     "type": "product",
+     "product": "luxury-hat",
+     "label": "The showstopper"
+    },
+    {
+     "type": "product",
+     "product": "airy-glam-hat",
+     "label": "Light and glam"
+    },
+    {
+     "type": "product",
+     "product": "premium-hostess-hatinator",
+     "label": "Hostess ready"
+    },
+    {
+     "type": "cta",
+     "kicker": "Reserve yours",
+     "headline": "Made for your moment",
+     "lines": [
+      "Can be made in your colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Statement hats only 👑 Which one steals the show? #facinated #hatinator #statementhat #ghanafashion #weddingguest #accra",
+   "caption_instagram": "Some occasions call for a hat that walks in before you do 👑\n\nLuxury Hat: GHS 1000\nAiry Glam Hat: GHS 800\nPremium Hostess Hatinator: GHS 250\n\nTell us on WhatsApp which one and what colour.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #hatinator #statementhat #luxuryhat #ghanafashion #accrafashion #weddingguest #millinery #madeinghana #churchhat"
+  },
+  {
+   "id": "5-fri-any-colour",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "format": "Custom-colour carousel",
+   "goal": "Asoebi buyers; DMs with fabric",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "vibrant-orange-mesh",
+     "kicker": "Asoebi ready",
+     "headline": "Your colour. Your fabric. Your piece.",
+     "sub": "Orange is just the start"
+    },
+    {
+     "type": "product",
+     "product": "orange-peral-fascinator",
+     "label": "Pearl orange"
+    },
+    {
+     "type": "product",
+     "product": "vibrant-orange-mesh",
+     "label": "Mesh"
+    },
+    {
+     "type": "product",
+     "product": "flora-fascinator",
+     "label": "Floral"
+    },
+    {
+     "type": "product",
+     "product": "carlet-sculptural",
+     "label": "Sculptural"
+    },
+    {
+     "type": "cta",
+     "kicker": "Send us your fabric",
+     "headline": "We'll match your asoebi",
+     "lines": [
+      "Pieces can be made in any colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Asoebi colour? We'll match it 🧡 Send your fabric on WhatsApp #facinated #asoebi #fascinator #ghanawedding #ghanafashion #accra",
+   "caption_instagram": "Got the asoebi? We'll make the fascinator to match 🧡\n\nSend a photo of your fabric on WhatsApp and tell us which style you love. Most of our pieces can be made in your colour.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #asoebi #asoebistyles #fascinator #ghanawedding #ghanaweddings #ghanafashion #accrafashion #madetoorder #madeinghana"
+  },
+  {
+   "id": "6-sat-piece-of-week",
+   "date": "2026-11-07",
+   "time": "10:00",
+   "format": "Single-piece spotlight",
+   "goal": "Wedding-day desire; show the detail",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "feathered-cheater-skin",
+     "image": 0,
+     "kicker": "Wedding day",
+     "headline": "The Feathered Cheater Skin",
+     "sub": "Saturday's showstopper"
+    },
+    {
+     "type": "product",
+     "product": "feathered-cheater-skin",
+     "image": 1,
+     "label": "The detail"
+    },
+    {
+     "type": "cta",
+     "kicker": "Reserve yours",
+     "headline": "Made for your moment",
+     "lines": [
+      "GHS 170 · any colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Wedding Saturday 🪶 The Feathered Cheater Skin. Would you wear it? #facinated #fascinator #featheredfascinator #ghanawedding #weddingguest #accra",
+   "caption_instagram": "It's wedding Saturday 🪶 Meet the Feathered Cheater Skin, soft feathers and a shape that frames your face.\n\nGHS 170. Pre-order yours, made in the colour you want.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #featheredfascinator #ghanawedding #weddingguest #accrafashion #ghanafashion #statementpiece #madeinghana #bridalguest"
+  },
+  {
+   "id": "7-sun-ready-now",
+   "date": "2026-11-08",
+   "time": "14:00",
+   "format": "In-stock carousel",
+   "goal": "Immediate orders from ready pieces",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "pink-beaded-fascinator",
+     "kicker": "Ready now",
+     "headline": "In stock and ready to go",
+     "sub": "No waiting. Swipe"
+    },
+    {
+     "type": "product",
+     "product": "pink-beaded-fascinator",
+     "label": "Ready now"
+    },
+    {
+     "type": "product",
+     "product": "spiral-wonder-fascinator",
+     "label": "Ready now"
+    },
+    {
+     "type": "product",
+     "product": "african-flat-bowl-fascinator",
+     "label": "Ready now"
+    },
+    {
+     "type": "product",
+     "product": "puffy-net-spiral-fascinator",
+     "label": "Ready now"
+    },
+    {
+     "type": "cta",
+     "kicker": "Need it this week?",
+     "headline": "Ready pieces, ready you",
+     "lines": [
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Need it this week? These are ready now 🙌 #facinated #fascinator #readytowear #ghanafashion #accra #churchoutfit",
+   "caption_instagram": "Need it this week? These are ready to go 🙌\n\nPink Beaded Fascinator: GHS 270\nSpiral Wonder: GHS 150\nAfrican Flat Bowl: GHS 180\nPuffy Net Spiral: GHS 60\n\nMessage us on WhatsApp to confirm.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #readytowear #instock #ghanafashion #accrafashion #churchoutfit #sundaybest #madeinghana"
+  }
+ ],
+ "film_brief": {
+  "title": "Optional: 5 minutes of filming this week",
+  "why": "A real person wearing the piece is what TikTok pushes hardest.",
+  "shots": [
+   "Put on the Feather Fascinator in a mirror, from bare head to finished look (10 sec)",
+   "Slowly turn your head left, then right, wearing any feathered piece, by a window (5 sec)",
+   "Hands only: pinning a fascinator into place (5 sec)",
+   "Flat lay: the headbands and face nets side by side (5 sec)"
+  ]
+ }
+}
