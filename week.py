@@ -65,7 +65,9 @@ def validate(week):
             if not post.get(field):
                 problems.append(f"{where}: missing {field}")
         day = dt.date.fromisoformat(post["date"])
-        if not start <= day <= start + dt.timedelta(days=6):
+        # "first_day" lets a week start early (e.g. new products launched mid-week).
+        first = dt.date.fromisoformat(plan.get("first_day", plan["week"]))
+        if not first <= day <= start + dt.timedelta(days=6):
             problems.append(f"{where}: date {day} is outside the week")
         hh, _, mm = post["time"].partition(":")
         if not (hh.isdigit() and mm.isdigit() and 0 <= int(hh) < 24 and 0 <= int(mm) < 60):

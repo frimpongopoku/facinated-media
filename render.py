@@ -10,7 +10,7 @@ import json
 import pathlib
 import sys
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 ROOT = pathlib.Path(__file__).parent
 FONTS = ROOT / "assets" / "fonts"
@@ -50,12 +50,21 @@ def cover_fit(img, w, h, anchor_y=0.25):
     return img.crop((left, top, left + w, top + h))
 
 
+def zoom(img, box):
+    """Crop to a box given as fractions [left, top, right, bottom]; used for
+    photos where the piece sits low or small in the frame (e.g. shoes)."""
+    if not box:
+        return img
+    l, t, r, b = box
+    return img.crop((round(img.width * l), round(img.height * t), round(img.width * r), round(img.height * b)))
+
+
 def photo(slide, catalog):
     """A slide shows its product's photo, or an extra photo from extras/ when given."""
     if slide.get("photo"):
-        return Image.open(ROOT / slide["photo"])
+        return zoom(Image.open(ROOT / slide["photo"]), slide.get("crop"))
     p = catalog[slide["product"]]
-    return Image.open(ROOT / p["local_images"][slide.get("image", 0)])
+    return zoom(Image.open(ROOT / p["local_images"][slide.get("image", 0)]), slide.get("crop"))
 
 
 def wrap(draw, text, fnt, max_w):
@@ -109,9 +118,25 @@ def wordmark(draw, w, y, fill):
     tracked(draw, (0, y), "facinated.com", font(SANS_MED, 26), fill, spacing=6, align_w=w)
 
 
+def framed(src, w, h):
+    """Photo across the top of the frame over a dark, blurred copy of itself,
+    leaving the lower part clear for text (the cover's text never sits on the piece)."""
+    src = src.convert("RGB")
+    back = cover_fit(src, w, h).filter(ImageFilter.GaussianBlur(40))
+    back = Image.blend(back, Image.new("RGB", (w, h), (20, 12, 14)), 0.72)
+    ph = round(h * (0.58 if w / h < 0.7 else 0.56))
+    top = round(h * 0.06) if w / h < 0.7 else 0
+    back.paste(cover_fit(src, w, ph, 0.5), (0, top))
+    return back, top + ph
+
+
 def render_cover(slide, catalog, w, h):
-    img = cover_fit(photo(slide, catalog), w, h)
-    img = bottom_shade(img, int(h * 0.36))
+    photo_bottom = 0
+    if slide.get("layout") == "framed":
+        img, photo_bottom = framed(photo(slide, catalog), w, h)
+    else:
+        img = cover_fit(photo(slide, catalog), w, h)
+        img = bottom_shade(img, int(h * 0.36))
     d = ImageDraw.Draw(img)
     pad = 80
     head = font(SERIF_BOLD, 92 if w / h < 0.7 else 80)
@@ -122,7 +147,7 @@ def render_cover(slide, catalog, w, h):
     # Keep text clear of TikTok's bottom caption overlay.
     bottom = h - (380 if w / h < 0.7 else 150)
     block_h = len(lines) * head.size * 1.08 + len(sub_lines) * sub_f.size * 1.3 + 70
-    y = bottom - block_h
+    y = max(bottom - block_h, photo_bottom + 50)
     tracked(d, (pad, y), slide.get("kicker", "Facinated"), font(SANS_SEMI, 28), GOLD, spacing=7)
     y += 60
     for line in lines:
@@ -141,7 +166,7 @@ def render_product(slide, catalog, w, h):
     tall = w / h < 0.7
     band = 560 if tall else 300
     img = Image.new("RGB", (w, h), CREAM)
-    img.paste(cover_fit(photo(slide, catalog), w, h - band), (0, 0))
+    img.paste(cover_fit(photo(slide, catalog), w, h - band, slide.get("anchor", 0.25)), (0, 0))
     d = ImageDraw.Draw(img)
     pad = 80
     y = h - band + 48
@@ -180,7 +205,7 @@ def render_grid(slide, catalog, w, h):
         p = catalog[slug]
         x = pad + (i % 2) * (cell_w + gap)
         y = top + (i // 2) * (cell_h + gap)
-        img.paste(cover_fit(Image.open(ROOT / p["local_images"][0]), cell_w, cell_h), (x, y))
+        img.paste(cover_fit(zoom(Image.open(ROOT / p["local_images"][0]), slide.get("crop")), cell_w, cell_h), (x, y))
     tracked(d, (0, 100 if tall else 70), slide.get("kicker", "Facinated"), font(SANS_SEMI, 26), GOLD, 7, w)
     text_block(d, (pad, (160 if tall else 120)), slide["headline"], font(SERIF_BOLD, 64 if tall else 56), INK, w - 2 * pad, 1.1, "center")
     if tall and slide.get("sub"):
