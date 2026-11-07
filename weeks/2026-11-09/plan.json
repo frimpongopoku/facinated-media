@@ -1,0 +1,626 @@
+{
+ "week": "2026-11-09",
+ "theme": "Launch week for the new heels (all in stock), paired with fascinators for wedding season",
+ "posts": [
+  {
+   "id": "1-sat-new-heels",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "format": "New arrivals carousel",
+   "goal": "Announce the new heels line; saves and DMs",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmw3rmxzq03b82jla0nu8imsn",
+     "layout": "framed",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "kicker": "Just landed",
+     "headline": "New in: heels to match your fascinator",
+     "sub": "All in stock. Swipe"
+    },
+    {
+     "type": "grid",
+     "kicker": "New in",
+     "headline": "Heels are here",
+     "products": [
+      "cmw3rmxzq03b82jla0nu8imsn",
+      "cmw3rmv8p03aq2jla1abufq88",
+      "cmw3rmxnl03b62jla7l9erdv0",
+      "cmw3rmx3j03b22jlajzfjobh2"
+     ],
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "sub": "In stock, from GHS 150"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmvvf03au2jlakmtfoopi",
+     "title": "Half Cut Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "label": "New in"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtpld03c02jlazqi9fd7w",
+     "title": "Feudal Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "label": "New in"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtpyx03c12jlay09xozfc",
+     "title": "Gladis Bossom",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "label": "New in"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtqci03c22jlahpk6l9vv",
+     "title": "Yellow Mark 8",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "label": "New in"
+    },
+    {
+     "type": "cta",
+     "kicker": "Ready now",
+     "headline": "Head to toe, sorted",
+     "lines": [
+      "In stock, no waiting",
+      "Ask for your size on WhatsApp",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Facinated now does heels 👠 In stock, no waiting. Which pair? #facinated #heels #ghanafashion #weddingguest #accra #ghanatiktok",
+   "caption_instagram": "Something new at Facinated 👠\n\nYour fascinator and your heels, now from one place. Our new heels are in stock and ready to go, from GHS 150.\n\nSwipe through and tell us your favourite. Send your size on WhatsApp and we'll check it for you.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #newin #ghanafashion #accrafashion #weddingguest #shoeslover #accrashoes #madeforyou #ghanaweddings"
+  },
+  {
+   "id": "2-sun-sunday-neutrals",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "format": "Occasion carousel",
+   "goal": "Church-goers; saves",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmw3rtr8j03c52jlaa4uysekh",
+     "layout": "framed",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "kicker": "Sunday best",
+     "headline": "Soft heels for Sunday service",
+     "sub": "White, cream and brown"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtr8j03c52jlaa4uysekh",
+     "title": "Standout Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "image": 1
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmws403b02jlaasha20zq",
+     "title": "Sunday Special",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtpbh03bz2jlae6h4nieg",
+     "title": "Cream Kackers",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtqmf03c32jlaa626f9dk",
+     "title": "Decent Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "cta",
+     "kicker": "See you Sunday",
+     "headline": "From first hymn to last",
+     "lines": [
+      "In stock, from GHS 150",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Sunday best, starting from your feet 🤍 Which pair for church? #facinated #heels #churchoutfit #sundaybest #ghanafashion #accra",
+   "caption_instagram": "Sunday best, starting from your feet 🤍\n\nSoft white, sparkle, cream and brown: easy to wear with any Sunday outfit. From GHS 150, all in stock.\n\nWhich pair would you wear to church?\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #churchoutfit #sundaybest #whiteheels #nudeheels #ghanafashion #accrafashion #accrashoes #shoeslover"
+  },
+  {
+   "id": "3-mon-heels-150",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "format": "Price-reveal carousel",
+   "goal": "Saves and shares; show the entry price",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmw3rtoe103bw2jlajgg766q8",
+     "layout": "framed",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "kicker": "Price reveal",
+     "headline": "Heels for GHS 150",
+     "sub": "Four pairs. Swipe"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtoe103bw2jlajgg766q8",
+     "title": "Red & Silver Glow",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rto3i03bv2jlahmsxotja",
+     "title": "Red Tinker Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmxdh03b42jla2evipxgt",
+     "title": "Cindarella",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtpbh03bz2jlae6h4nieg",
+     "title": "Cream Kackers",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "cta",
+     "kicker": "Save this",
+     "headline": "Small price. Big entrance.",
+     "lines": [
+      "In stock now",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Heels for GHS 150 🤯 Which pair are you taking? #facinated #heels #affordablefashion #accra #ghanatiktok #weddingguest",
+   "caption_instagram": "Four pairs of heels, GHS 150 each ✨\n\nRed satin with sparkle, red lace, soft ivory and nude. All in stock, ready for your next wedding, church service or night out. Save this for when you need it 📌\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #affordablefashion #ghanafashion #accrafashion #redheels #nudeheels #weddingguest #shoeslover #accrashoes"
+  },
+  {
+   "id": "4-tue-head-to-toe",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "format": "Styling tip carousel",
+   "goal": "Cross-sell fascinator + heels; saves",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmw3rmxnl03b62jla7l9erdv0",
+     "layout": "framed",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "kicker": "Styling tip",
+     "headline": "Match your heels to your fascinator",
+     "sub": "Three pairings. Swipe"
+    },
+    {
+     "type": "product",
+     "product": "modern-alien-dish-hatinator",
+     "label": "Pink: head"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmxnl03b62jla7l9erdv0",
+     "title": "Pink Panther",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "label": "Pink: toe"
+    },
+    {
+     "type": "product",
+     "product": "spiral-wonder-fascinator",
+     "label": "Green: head"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmxzq03b82jla0nu8imsn",
+     "title": "Green Half Cut Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "label": "Green: toe"
+    },
+    {
+     "type": "product",
+     "product": "princess-pokah-hatinator",
+     "label": "Gold: head"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtoqm03bx2jlawfm3xuru",
+     "title": "Yellow Sisi",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "label": "Gold: toe"
+    },
+    {
+     "type": "cta",
+     "kicker": "The rule",
+     "headline": "One colour, top and bottom",
+     "lines": [
+      "Keep the outfit simple, let the pair talk",
+      "Send your outfit, we'll match it",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Head to toe in one colour 💗💚💛 Which pairing? #facinated #fascinator #heels #stylingtips #ghanafashion #weddingguest",
+   "caption_instagram": "Styling tip: match your heels to your fascinator 💗💚💛\n\nPick one colour and wear it top and bottom. Keep the outfit in between simple and let the pair do the talking.\n\nPink: Modern Alien Dish Hatinator + Pink Panther heels\nGreen: Spiral Wonder Fascinator + Green Half Cut Heel\nGold: Princess Pokah Hatinator + Yellow Sisi\n\nNot sure what goes with your outfit? Send us a photo on WhatsApp and we'll match it.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #heels #stylingtips #weddingguest #ghanafashion #accrafashion #asoebi #hatinator #colourblocking"
+  },
+  {
+   "id": "5-wed-which-sparkle",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "format": "Poll carousel",
+   "goal": "Comments",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmw3rtn3q03bs2jla0rdy9ln8",
+     "layout": "framed",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "kicker": "Wedding season",
+     "headline": "Saturday's wedding. Which sparkle are you?",
+     "sub": "Comment 1, 2, 3 or 4"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtn3q03bs2jla0rdy9ln8",
+     "title": "Perfect Shine",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "number": 1,
+     "label": "Option one"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtmil03bp2jlayutdhexz",
+     "title": "Beaded Glaze Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "number": 2,
+     "label": "Option two"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtp0k03by2jlajv0ildqo",
+     "title": "Glossy Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "number": 3,
+     "label": "Option three"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmvkj03as2jla5s1pg7ps",
+     "title": "Porsche Shiny Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "number": 4,
+     "label": "Option four"
+    },
+    {
+     "type": "cta",
+     "kicker": "Your number?",
+     "headline": "Drop it in the comments",
+     "lines": [
+      "All four in stock, GHS 250",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "1, 2, 3 or 4? ✨ Comment your sparkle 👇 #facinated #heels #sparklyheels #ghanawedding #weddingguest #accra",
+   "caption_instagram": "Wedding season calls for a little shine ✨\n\n1. Perfect Shine\n2. Beaded Glaze Heel\n3. Glossy Heel\n4. Porsche Shiny Heel\n\nAll GHS 250, all in stock. Comment your number below 👇\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #sparklyheels #silverheels #weddingguest #ghanawedding #ghanaweddings #accrafashion #partyheels #shoeslover"
+  },
+  {
+   "id": "6-thu-black-edit",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "format": "In-stock carousel",
+   "goal": "Practical buys: work, church, funerals",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmw3rtmsw03br2jla4ozug2a0",
+     "layout": "framed",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "kicker": "Ready now",
+     "headline": "Black heels for every occasion",
+     "sub": "Work, church, weekends. Swipe"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtmsw03br2jla4ozug2a0",
+     "title": "Office Black",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtnqs03bu2jlafnk0cttl",
+     "title": "Office Clean",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmuy403ao2jlakrpcop3a",
+     "title": "Black Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmwgf03ay2jlaqc1zp3ny",
+     "title": "Black Lense",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rmw6003aw2jlalxlt9cb4",
+     "title": "Sunsum",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtqym03c42jlam8jkykgb",
+     "title": "Spacious Lback",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "product",
+     "product": "cmw3rtne703bt2jlap9xcop3q",
+     "title": "All Black",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ]
+    },
+    {
+     "type": "cta",
+     "kicker": "Ready now",
+     "headline": "Every woman needs one pair",
+     "lines": [
+      "Seven pairs, all in stock",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Every woman needs one good black heel 🖤 Which one? #facinated #blackheels #officewear #ghanafashion #accra #ghanatiktok",
+   "caption_instagram": "Every woman needs one good black heel 🖤\n\nFor the office on Monday, church on Sunday and every occasion in between. Pointed pumps, slingbacks and kitten heels, GHS 250 each and all in stock.\n\nWhich one is yours?\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #blackheels #heels #officewear #workwear #churchoutfit #ghanafashion #accrafashion #accrashoes #shoeslover"
+  },
+  {
+   "id": "7-fri-red-lace",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "format": "Single-piece spotlight",
+   "goal": "Wedding-day desire; show the detail",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmw3rto3i03bv2jlahmsxotja",
+     "layout": "framed",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "image": 0,
+     "kicker": "Weekend wedding",
+     "headline": "Red lace, ready for the wedding",
+     "sub": "Red Tinker Heel, GHS 150"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rto3i03bv2jlahmsxotja",
+     "title": "Red Tinker Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "image": 1,
+     "label": "The lace"
+    },
+    {
+     "type": "product",
+     "product": "cmw3rto3i03bv2jlahmsxotja",
+     "title": "Red Tinker Heel",
+     "crop": [
+      0.04,
+      0.28,
+      0.96,
+      0.97
+     ],
+     "image": 2,
+     "label": "The pair"
+    },
+    {
+     "type": "cta",
+     "kicker": "Grab yours",
+     "headline": "In stock, ready today",
+     "lines": [
+      "GHS 150",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Weekend wedding? ❤️ Red lace heels, GHS 150. Would you wear them? #facinated #redheels #ghanawedding #weddingguest #accra #ghanatiktok",
+   "caption_instagram": "Wedding this weekend? ❤️ Meet the Red Tinker Heel: red lace, a pointed toe and a little height for the dance floor.\n\nGHS 150, in stock now. Pair it with a red fascinator and you're done.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #redheels #laceheels #heels #weddingguest #ghanawedding #ghanaweddings #accrafashion #asoebi #shoeslover"
+  }
+ ],
+ "film_brief": {
+  "title": "Optional: 5 minutes of filming this week",
+  "why": "A real person wearing the piece is what TikTok pushes hardest.",
+  "shots": [
+   "Slip on a pair of the new heels and take three steps towards the camera (5 sec)",
+   "Put on a fascinator, then look down at matching heels (10 sec)",
+   "The turntable: one pair spinning slowly (5 sec)",
+   "Unboxing: lifting a pair of heels out of the box (5 sec)"
+  ]
+ },
+ "first_day": "2026-11-07"
+}
