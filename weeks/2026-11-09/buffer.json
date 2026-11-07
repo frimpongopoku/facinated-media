@@ -1,0 +1,72 @@
+{
+  "1-sat-new-heels/tiktok": {
+    "id": "6aeeda29af7e526d430a354f",
+    "dueAt": "2026-11-07T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "1-sat-new-heels/instagram": {
+    "id": "6aeeda2eaf7e526d430a3652",
+    "dueAt": "2026-11-07T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-sun-sunday-neutrals/tiktok": {
+    "id": "6aeeda33229bf05daf36bc02",
+    "dueAt": "2026-11-08T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-sun-sunday-neutrals/instagram": {
+    "id": "6aeeda369214322f68d99f10",
+    "dueAt": "2026-11-08T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-mon-heels-150/tiktok": {
+    "id": "6aeeda3a9214322f68d9a375",
+    "dueAt": "2026-11-09T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-mon-heels-150/instagram": {
+    "id": "6aeeda3dd6bbae6fa171ea17",
+    "dueAt": "2026-11-09T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-tue-head-to-toe/tiktok": {
+    "id": "6aeeda42a7751de7c9d366f1",
+    "dueAt": "2026-11-10T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-tue-head-to-toe/instagram": {
+    "id": "6aeeda47af7e526d430a3981",
+    "dueAt": "2026-11-10T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-wed-which-sparkle/tiktok": {
+    "id": "6aeeda4a004e4879a73fd5c7",
+    "dueAt": "2026-11-11T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-wed-which-sparkle/instagram": {
+    "id": "6aeeda4faf7e526d430a3bd5",
+    "dueAt": "2026-11-11T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-thu-black-edit/tiktok": {
+    "id": "6aeeda549214322f68d9ab1a",
+    "dueAt": "2026-11-12T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-thu-black-edit/instagram": {
+    "id": "6aeeda59af7e526d430a3da2",
+    "dueAt": "2026-11-12T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-fri-red-lace/tiktok": {
+    "id": "6aeeda5baf7e526d430a3e72",
+    "dueAt": "2026-11-13T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-fri-red-lace/instagram": {
+    "id": "6aeeda5eaf7e526d430a3f24",
+    "dueAt": "2026-11-13T19:00:00.000Z",
+    "status": "scheduled"
+  }
+}
