@@ -1,34 +1,4 @@
 {
-  "1-sat-new-heels/tiktok": {
-    "id": "6aeeda29af7e526d430a354f",
-    "dueAt": "2026-11-07T19:00:00.000Z",
-    "status": "scheduled"
-  },
-  "1-sat-new-heels/instagram": {
-    "id": "6aeeda2eaf7e526d430a3652",
-    "dueAt": "2026-11-07T19:00:00.000Z",
-    "status": "scheduled"
-  },
-  "2-sun-sunday-neutrals/tiktok": {
-    "id": "6aeeda33229bf05daf36bc02",
-    "dueAt": "2026-11-08T19:00:00.000Z",
-    "status": "scheduled"
-  },
-  "2-sun-sunday-neutrals/instagram": {
-    "id": "6aeeda369214322f68d99f10",
-    "dueAt": "2026-11-08T19:00:00.000Z",
-    "status": "scheduled"
-  },
-  "3-mon-heels-150/tiktok": {
-    "id": "6aeeda3a9214322f68d9a375",
-    "dueAt": "2026-11-09T19:00:00.000Z",
-    "status": "scheduled"
-  },
-  "3-mon-heels-150/instagram": {
-    "id": "6aeeda3dd6bbae6fa171ea17",
-    "dueAt": "2026-11-09T19:00:00.000Z",
-    "status": "scheduled"
-  },
   "4-tue-head-to-toe/tiktok": {
     "id": "6aeeda42a7751de7c9d366f1",
     "dueAt": "2026-11-10T19:00:00.000Z",
@@ -59,13 +29,43 @@
     "dueAt": "2026-11-12T19:00:00.000Z",
     "status": "scheduled"
   },
-  "7-fri-red-lace/tiktok": {
-    "id": "6aeeda5baf7e526d430a3e72",
+  "1-sat-heels-launch/tiktok": {
+    "id": "6aeede47a7751de7c9d4e685",
+    "dueAt": "2026-11-07T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "1-sat-heels-launch/instagram": {
+    "id": "6aeede4c229bf05daf385bd0",
+    "dueAt": "2026-11-07T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-sun-sunday-heels/tiktok": {
+    "id": "6aeede50229bf05daf385c56",
+    "dueAt": "2026-11-08T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-sun-sunday-heels/instagram": {
+    "id": "6aeede53a7751de7c9d4e831",
+    "dueAt": "2026-11-08T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-mon-red-or-neutral/tiktok": {
+    "id": "6aeede57004e4879a7418157",
+    "dueAt": "2026-11-09T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-mon-red-or-neutral/instagram": {
+    "id": "6aeede5bd6bbae6fa1738a10",
+    "dueAt": "2026-11-09T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-fri-red-lace-heel/tiktok": {
+    "id": "6aeede5d004e4879a741823f",
     "dueAt": "2026-11-13T19:00:00.000Z",
     "status": "scheduled"
   },
-  "7-fri-red-lace/instagram": {
-    "id": "6aeeda5eaf7e526d430a3f24",
+  "7-fri-red-lace-heel/instagram": {
+    "id": "6aeede5fd6bbae6fa1738ae9",
     "dueAt": "2026-11-13T19:00:00.000Z",
     "status": "scheduled"
   }
