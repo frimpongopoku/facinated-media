@@ -3,7 +3,7 @@
  "theme": "Launch week for the new heels (all in stock), paired with fascinators for wedding season",
  "posts": [
   {
-   "id": "1-sat-new-heels",
+   "id": "1-sat-heels-launch",
    "date": "2026-11-07",
    "time": "19:00",
    "format": "New arrivals carousel",
@@ -39,7 +39,7 @@
       0.96,
       0.97
      ],
-     "sub": "In stock, from GHS 150"
+     "sub": "All in stock, GHS 250"
     },
     {
      "type": "product",
@@ -102,10 +102,10 @@
     }
    ],
    "caption_tiktok": "Facinated now does heels 👠 In stock, no waiting. Which pair? #facinated #heels #ghanafashion #weddingguest #accra #ghanatiktok",
-   "caption_instagram": "Something new at Facinated 👠\n\nYour fascinator and your heels, now from one place. Our new heels are in stock and ready to go, from GHS 150.\n\nSwipe through and tell us your favourite. Send your size on WhatsApp and we'll check it for you.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #newin #ghanafashion #accrafashion #weddingguest #shoeslover #accrashoes #madeforyou #ghanaweddings"
+   "caption_instagram": "Something new at Facinated 👠\n\nYour fascinator and your heels, now from one place. Our new heels are in stock and ready to go, GHS 250 a pair.\n\nSwipe through and tell us your favourite. Send your size on WhatsApp and we'll check it for you.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #newin #ghanafashion #accrafashion #weddingguest #shoeslover #accrashoes #madeforyou #ghanaweddings"
   },
   {
-   "id": "2-sun-sunday-neutrals",
+   "id": "2-sun-sunday-heels",
    "date": "2026-11-08",
    "time": "19:00",
    "format": "Occasion carousel",
@@ -175,21 +175,21 @@
      "kicker": "See you Sunday",
      "headline": "From first hymn to last",
      "lines": [
-      "In stock, from GHS 150",
+      "All in stock, GHS 250",
       "Order on WhatsApp: 053 476 3923",
       "Shop: facinated.com"
      ]
     }
    ],
    "caption_tiktok": "Sunday best, starting from your feet 🤍 Which pair for church? #facinated #heels #churchoutfit #sundaybest #ghanafashion #accra",
-   "caption_instagram": "Sunday best, starting from your feet 🤍\n\nSoft white, sparkle, cream and brown: easy to wear with any Sunday outfit. From GHS 150, all in stock.\n\nWhich pair would you wear to church?\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #churchoutfit #sundaybest #whiteheels #nudeheels #ghanafashion #accrafashion #accrashoes #shoeslover"
+   "caption_instagram": "Sunday best, starting from your feet 🤍\n\nSoft white, sparkle, cream and brown: easy to wear with any Sunday outfit. GHS 250 a pair, all in stock.\n\nWhich pair would you wear to church?\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #churchoutfit #sundaybest #whiteheels #nudeheels #ghanafashion #accrafashion #accrashoes #shoeslover"
   },
   {
-   "id": "3-mon-heels-150",
+   "id": "3-mon-red-or-neutral",
    "date": "2026-11-09",
    "time": "19:00",
-   "format": "Price-reveal carousel",
-   "goal": "Saves and shares; show the entry price",
+   "format": "This-or-that carousel",
+   "goal": "Comments: red or neutral",
    "slides": [
     {
      "type": "cover",
@@ -201,9 +201,9 @@
       0.96,
       0.97
      ],
-     "kicker": "Price reveal",
-     "headline": "Heels for GHS 150",
-     "sub": "Four pairs. Swipe"
+     "kicker": "This or that",
+     "headline": "Red or neutral? Pick your heel",
+     "sub": "Comment RED or NEUTRAL"
     },
     {
      "type": "product",
@@ -214,7 +214,8 @@
       0.28,
       0.96,
       0.97
-     ]
+     ],
+     "label": "Team red"
     },
     {
      "type": "product",
@@ -225,7 +226,8 @@
       0.28,
       0.96,
       0.97
-     ]
+     ],
+     "label": "Team red"
     },
     {
      "type": "product",
@@ -236,7 +238,8 @@
       0.28,
       0.96,
       0.97
-     ]
+     ],
+     "label": "Team neutral"
     },
     {
      "type": "product",
@@ -247,21 +250,22 @@
       0.28,
       0.96,
       0.97
-     ]
+     ],
+     "label": "Team neutral"
     },
     {
      "type": "cta",
-     "kicker": "Save this",
-     "headline": "Small price. Big entrance.",
+     "kicker": "Your pick?",
+     "headline": "Tell us in the comments",
      "lines": [
-      "In stock now",
+      "All four in stock, GHS 250",
       "Order on WhatsApp: 053 476 3923",
       "Shop: facinated.com"
      ]
     }
    ],
-   "caption_tiktok": "Heels for GHS 150 🤯 Which pair are you taking? #facinated #heels #affordablefashion #accra #ghanatiktok #weddingguest",
-   "caption_instagram": "Four pairs of heels, GHS 150 each ✨\n\nRed satin with sparkle, red lace, soft ivory and nude. All in stock, ready for your next wedding, church service or night out. Save this for when you need it 📌\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #affordablefashion #ghanafashion #accrafashion #redheels #nudeheels #weddingguest #shoeslover #accrashoes"
+   "caption_tiktok": "Red or neutral? ❤️🤍 Comment your team 👇 #facinated #heels #redheels #nudeheels #ghanafashion #accra",
+   "caption_instagram": "Red or neutral? ❤️🤍\n\nRed for when you want to be seen. Ivory and nude for when you want them to go with everything. All four are in stock, GHS 250 each.\n\nComment RED or NEUTRAL below 👇\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #redheels #nudeheels #ghanafashion #accrafashion #weddingguest #churchoutfit #accrashoes #shoeslover"
   },
   {
    "id": "4-tue-head-to-toe",
@@ -550,7 +554,7 @@
    "caption_instagram": "Every woman needs one good black heel 🖤\n\nFor the office on Monday, church on Sunday and every occasion in between. Pointed pumps, slingbacks and kitten heels, GHS 250 each and all in stock.\n\nWhich one is yours?\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #blackheels #heels #officewear #workwear #churchoutfit #ghanafashion #accrafashion #accrashoes #shoeslover"
   },
   {
-   "id": "7-fri-red-lace",
+   "id": "7-fri-red-lace-heel",
    "date": "2026-11-13",
    "time": "19:00",
    "format": "Single-piece spotlight",
@@ -569,7 +573,7 @@
      "image": 0,
      "kicker": "Weekend wedding",
      "headline": "Red lace, ready for the wedding",
-     "sub": "Red Tinker Heel, GHS 150"
+     "sub": "Red Tinker Heel, GHS 250"
     },
     {
      "type": "product",
@@ -602,14 +606,14 @@
      "kicker": "Grab yours",
      "headline": "In stock, ready today",
      "lines": [
-      "GHS 150",
+      "GHS 250",
       "Order on WhatsApp: 053 476 3923",
       "Shop: facinated.com"
      ]
     }
    ],
-   "caption_tiktok": "Weekend wedding? ❤️ Red lace heels, GHS 150. Would you wear them? #facinated #redheels #ghanawedding #weddingguest #accra #ghanatiktok",
-   "caption_instagram": "Wedding this weekend? ❤️ Meet the Red Tinker Heel: red lace, a pointed toe and a little height for the dance floor.\n\nGHS 150, in stock now. Pair it with a red fascinator and you're done.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #redheels #laceheels #heels #weddingguest #ghanawedding #ghanaweddings #accrafashion #asoebi #shoeslover"
+   "caption_tiktok": "Weekend wedding? ❤️ Red lace heels, GHS 250. Would you wear them? #facinated #redheels #ghanawedding #weddingguest #accra #ghanatiktok",
+   "caption_instagram": "Wedding this weekend? ❤️ Meet the Red Tinker Heel: red lace, a pointed toe and a little height for the dance floor.\n\nGHS 250, in stock now. Pair it with a red fascinator and you're done.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #redheels #laceheels #heels #weddingguest #ghanawedding #ghanaweddings #accrafashion #asoebi #shoeslover"
   }
  ],
  "film_brief": {
