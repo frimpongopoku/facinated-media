@@ -1,0 +1,72 @@
+{
+  "1-mon-which-red/tiktok": {
+    "id": "6afabce2ff465c57dae37d56",
+    "dueAt": "2026-11-16T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "1-mon-which-red/instagram": {
+    "id": "6afabce406e1675856d90c99",
+    "dueAt": "2026-11-16T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-tue-from-100/tiktok": {
+    "id": "6afabce68e87c256a3c25fa6",
+    "dueAt": "2026-11-17T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-tue-from-100/instagram": {
+    "id": "6afabce78e87c256a3c26139",
+    "dueAt": "2026-11-17T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-wed-your-colour/tiktok": {
+    "id": "6afabce9a869c35e5bcb5572",
+    "dueAt": "2026-11-18T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-wed-your-colour/instagram": {
+    "id": "6afabcebd7e5fee638afa34d",
+    "dueAt": "2026-11-18T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-thu-black-and-white/tiktok": {
+    "id": "6afabcedd7e5fee638afa3a5",
+    "dueAt": "2026-11-19T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-thu-black-and-white/instagram": {
+    "id": "6afabceea869c35e5bcb56a9",
+    "dueAt": "2026-11-19T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-heels-ready/tiktok": {
+    "id": "6afabcf060a910801c7c9624",
+    "dueAt": "2026-11-20T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-heels-ready/instagram": {
+    "id": "6afabcf18e87c256a3c26607",
+    "dueAt": "2026-11-20T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-sat-bloomy-gloom/tiktok": {
+    "id": "6afabcf2ff465c57dae38403",
+    "dueAt": "2026-11-21T10:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-sat-bloomy-gloom/instagram": {
+    "id": "6afabcf4d7e5fee638afa540",
+    "dueAt": "2026-11-21T10:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-sun-sunday-best/tiktok": {
+    "id": "6afabcf5d7e5fee638afa588",
+    "dueAt": "2026-11-22T14:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-sun-sunday-best/instagram": {
+    "id": "6afabcf760a910801c7c9896",
+    "dueAt": "2026-11-22T14:00:00.000Z",
+    "status": "scheduled"
+  }
+}
