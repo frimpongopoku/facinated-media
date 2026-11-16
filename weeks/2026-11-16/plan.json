@@ -1,6 +1,6 @@
 {
  "week": "2026-11-16",
- "theme": "Wedding season: red poll, price reveal, any colour, funeral wear, ready-now heels, Bloomy Gloom and Sunday styling",
+ "theme": "Menswear launch (Dzaddy's Picks) with wedding-season fascinators: red poll, new-in shirts, any colour, funeral wear, Friday shirt poll, Bloomy Gloom, matching his-and-hers",
  "posts": [
   {
    "id": "1-mon-which-red",
@@ -54,51 +54,97 @@
    ]
   },
   {
-   "id": "2-tue-from-100",
+   "id": "2-tue-dzaddy-new-in",
    "date": "2026-11-17",
    "time": "19:00",
-   "format": "Price-reveal carousel",
-   "goal": "Saves and shares",
+   "format": "New-arrival carousel",
+   "goal": "Launch menswear; WhatsApp orders",
    "slides": [
     {
      "type": "cover",
-     "product": "copper-loop-fascinator",
-     "kicker": "Price reveal",
-     "headline": "Fascinators from GHS 100",
-     "sub": "Swipe to see four"
+     "product": "cmwbyii7y01gc2jolefw85dhi",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "kicker": "New in for him",
+     "headline": "Dzaddy's Picks has landed",
+     "sub": "Men's shirts and tees, GHS 60 to 80"
+    },
+    {
+     "type": "grid",
+     "kicker": "Dzaddy's Picks",
+     "headline": "Bold prints, easy colours",
+     "products": [
+      "cmwbyig1201fy2jol08j28ruk",
+      "cmwbyip4j01j82jolgi3lpq54",
+      "cmwbyij7401gi2jolam4wl6gt",
+      "cmwbyiru101jq2jolsq1uds95"
+     ],
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "sub": "All in stock now"
     },
     {
      "type": "product",
-     "product": "copper-loop-fascinator"
+     "product": "cmwbyiea201fo2jol0k5ieqfa",
+     "title": "Grey Leaf Print Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "New in"
     },
     {
      "type": "product",
-     "product": "orange-peral-fascinator"
+     "product": "cmwbyiln501gw2jol8bivfkp1",
+     "title": "Black Floral Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "New in"
     },
     {
      "type": "product",
-     "product": "fascinator-with-pearl-accents"
-    },
-    {
-     "type": "product",
-     "product": "elegant-orange"
+     "product": "cmwbyiuhu01k62jol3oiuz1pr",
+     "title": "Tropical Print Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "New in"
     },
     {
      "type": "cta",
-     "kicker": "Save this",
-     "headline": "Small price. Big occasion.",
+     "kicker": "For him",
+     "headline": "Sorted for the weekend",
      "lines": [
+      "In stock now",
+      "Ask for his size on WhatsApp",
       "Order on WhatsApp: 053 476 3923",
       "Shop: facinated.com"
      ]
     }
    ],
-   "caption_tiktok": "Fascinators from GHS 100 ✨ Which one are you taking? #facinated #fascinator #affordablefashion #ghanatiktok #accra #churchoutfit",
-   "caption_instagram": "A good look doesn't have to cost a lot ✨\n\nFour pieces, from GHS 100 to GHS 120. Perfect for church, a naming ceremony or a wedding. Save this for your next occasion 📌\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #affordablefashion #accrafashion #ghanafashion #churchoutfit #sundaybest #orangefascinator #madeinghana",
+   "caption_tiktok": "New in: Dzaddy's Picks 🔥 Men's shirts and tees from GHS 60. Which one is his? #facinated #mensfashion #ghanafashion #accra #dzaddyspicks #ghanatiktok",
+   "caption_instagram": "New in: Dzaddy's Picks 🔥\n\nMen's shirts and tees, all in stock, GHS 60 to GHS 80. Bold prints for the weekend, clean colours for church and work. Tag the man who needs one, or send us his size on WhatsApp.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #dzaddyspicks #mensfashion #menshirts #ghanamensfashion #accrafashion #ghanafashion #printshirt #weekendstyle #instock",
    "film_brief": [
-    "Pick up each piece and say its price",
-    "Show it on your head in a mirror",
-    "Pile all four together"
+    "Flip through the rail of shirts",
+    "Hold up three favourite prints to the camera",
+    "Fold one and say the price"
    ]
   },
   {
@@ -200,84 +246,81 @@
    ]
   },
   {
-   "id": "5-fri-heels-ready",
+   "id": "5-fri-friday-fit",
    "date": "2026-11-20",
    "time": "19:00",
-   "format": "In-stock carousel",
-   "goal": "Ready-now heels, WhatsApp orders",
+   "format": "Poll carousel",
+   "goal": "Comments; menswear orders for the weekend",
    "slides": [
     {
      "type": "cover",
-     "product": "cmw3rmuy403ao2jlakrpcop3a",
-     "layout": "framed",
+     "product": "cmwbyins201ha2jol338gyefc",
      "crop": [
-      0.04,
-      0.28,
-      0.96,
-      0.97
+      0.24,
+      0.13,
+      0.9,
+      0.92
      ],
-     "kicker": "Ready now",
-     "headline": "Heels in stock for your weekend",
-     "sub": "GHS 250, no waiting"
-    },
-    {
-     "type": "grid",
-     "kicker": "In stock",
-     "headline": "Pick your pair",
-     "products": [
-      "cmw3rmuy403ao2jlakrpcop3a",
-      "cmw3rmw6003aw2jlalxlt9cb4",
-      "cmw3rmwgf03ay2jlaqc1zp3ny",
-      "cmw3rmxdh03b42jla2evipxgt"
-     ],
-     "crop": [
-      0.04,
-      0.28,
-      0.96,
-      0.97
-     ],
-     "sub": "All in stock, GHS 250"
+     "kicker": "Friday night",
+     "headline": "His weekend shirt: 1, 2 or 3?",
+     "sub": "Swipe and comment your pick"
     },
     {
      "type": "product",
-     "product": "cmw3rmwgf03ay2jlaqc1zp3ny",
+     "product": "cmwbyins201ha2jol338gyefc",
+     "title": "Graphic Print Shirt",
      "crop": [
-      0.04,
-      0.28,
-      0.96,
-      0.97
+      0.24,
+      0.13,
+      0.9,
+      0.92
      ],
-     "label": "Ready now"
+     "number": 1,
+     "label": "Option one"
     },
     {
      "type": "product",
-     "product": "cmw3rmxdh03b42jla2evipxgt",
+     "product": "cmwbyik8x01go2jol3vg8arxw",
+     "title": "Blue Ombre Shirt",
      "crop": [
-      0.04,
-      0.28,
-      0.96,
-      0.97
+      0.24,
+      0.13,
+      0.9,
+      0.92
      ],
-     "label": "Ready now"
+     "number": 2,
+     "label": "Option two"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyisi601ju2jol0dp40bon",
+     "title": "Pop Print Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "number": 3,
+     "label": "Option three"
     },
     {
      "type": "cta",
-     "kicker": "Ready now",
-     "headline": "Head to toe, sorted",
+     "kicker": "Your number?",
+     "headline": "Drop it in the comments",
      "lines": [
-      "In stock, no waiting",
-      "Ask for your size on WhatsApp",
+      "In stock, ask for his size",
       "Order on WhatsApp: 053 476 3923",
       "Shop: facinated.com"
      ]
     }
    ],
-   "caption_tiktok": "Weekend plans? These heels are in stock 👠 Which pair? #facinated #heels #ghanafashion #weddingguest #accra #ghanatiktok",
-   "caption_instagram": "Weekend plans sorted 👠\n\nFour heels, all in stock and ready to go, GHS 250 a pair. Send your size on WhatsApp and we'll check it for you.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #heels #instock #ghanafashion #accrafashion #weddingguest #shoeslover #accrashoes #ghanaweddings #madeforyou",
+   "caption_tiktok": "Friday night fit for him: 1, 2 or 3? 👀 Comment your pick 👇 #facinated #mensfashion #dzaddyspicks #ghanafashion #accra #ghanatiktok",
+   "caption_instagram": "Friday night. Which shirt is he wearing? 👀\n\n1. Graphic Print Shirt: GHS 80\n2. Blue Ombre Shirt: GHS 80\n3. Pop Print Shirt: GHS 70\n\nComment your number 👇 All in stock from Dzaddy's Picks.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #dzaddyspicks #mensfashion #menshirts #ghanamensfashion #accrafashion #fridaynight #weekendstyle #printshirt #ghanafashion",
    "film_brief": [
-    "Walk toward camera in each pair",
-    "Close-up of the heel",
-    "Show the box and say in stock"
+    "Hold each shirt up, one by one",
+    "Count 1, 2, 3 on your fingers",
+    "Point at the camera: comment yours"
    ]
   },
   {
@@ -325,47 +368,77 @@
    ]
   },
   {
-   "id": "7-sun-sunday-best",
+   "id": "7-sun-match-him",
    "date": "2026-11-22",
    "time": "14:00",
    "format": "Styling tip carousel",
-   "goal": "Church-goers; saves",
+   "goal": "Couples cross-sell; saves",
    "slides": [
     {
      "type": "cover",
-     "product": "airy-glam-hat",
+     "product": "cmwbyiqmr01ji2jolk0ogcz5y",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
      "kicker": "Sunday best",
-     "headline": "How to finish a church outfit",
-     "sub": "Three quick tips"
+     "headline": "Church together, colours matched",
+     "sub": "His shirt, your fascinator"
     },
     {
      "type": "product",
-     "product": "airy-glam-hat",
-     "label": "Statement hat"
+     "product": "cmwbyiqmr01ji2jolk0ogcz5y",
+     "title": "Green Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "His"
     },
     {
      "type": "product",
-     "product": "flora-fascinator",
-     "label": "Soft florals"
+     "product": "emerald-fascinator",
+     "label": "Hers"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyij7401gi2jolam4wl6gt",
+     "title": "Hot Pink Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "His"
+    },
+    {
+     "type": "product",
+     "product": "pink-beaded-fascinator",
+     "label": "Hers"
     },
     {
      "type": "cta",
-     "kicker": "Style tips",
-     "headline": "Finish it right",
+     "kicker": "Style tip",
+     "headline": "Pick one colour, wear it twice",
      "lines": [
-      "Match one colour from your outfit",
-      "Keep the rest simple",
+      "His shirt, your fascinator",
+      "Fascinators can be made in your colour",
       "Order on WhatsApp: 053 476 3923",
       "Shop: facinated.com"
      ]
     }
    ],
-   "caption_tiktok": "Sunday best, finished 🙏 Match one colour, keep the rest simple. #facinated #fascinator #sundaybest #churchoutfit #ghanafashion #ghanatiktok",
-   "caption_instagram": "Sunday best, finished 🙏\n\nTip one: match one colour from your outfit. Tip two: let the hat or fascinator be the statement. Tip three: keep the rest simple.\n\nAiry Glam Hat: GHS 800\nAsew Maame: GHS 170\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #sundaybest #churchoutfit #churchhat #ghanafashion #accrafashion #stylingtips #madeinghana #hatinator",
+   "caption_tiktok": "Church together, colours matched 💚💗 His shirt, your fascinator. #facinated #fascinator #mensfashion #sundaybest #couplegoals #ghanatiktok",
+   "caption_instagram": "Sunday best, together 💚💗\n\nPick one colour and wear it twice: his shirt, your fascinator.\n\nGreen Shirt: GHS 70 with Emerald Fascinator: GHS 150\nHot Pink Shirt: GHS 80 with Pink Beaded Fascinator: GHS 270\n\nShirts are in stock from Dzaddy's Picks. Fascinators can be made in the colour you need.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #dzaddyspicks #sundaybest #churchoutfit #couplegoals #matchingoutfits #mensfashion #ghanafashion #accrafashion",
    "film_brief": [
-    "Put the outfit on the bed with the piece",
-    "Show on your head",
-    "Walk out the door"
+    "Lay his shirt and your fascinator side by side",
+    "Walk out together",
+    "Close-up of the matching colours"
    ]
   }
  ]
