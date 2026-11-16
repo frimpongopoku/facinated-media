@@ -9,16 +9,6 @@
     "dueAt": "2026-11-16T19:00:00.000Z",
     "status": "scheduled"
   },
-  "2-tue-from-100/tiktok": {
-    "id": "6afabce68e87c256a3c25fa6",
-    "dueAt": "2026-11-17T19:00:00.000Z",
-    "status": "scheduled"
-  },
-  "2-tue-from-100/instagram": {
-    "id": "6afabce78e87c256a3c26139",
-    "dueAt": "2026-11-17T19:00:00.000Z",
-    "status": "scheduled"
-  },
   "3-wed-your-colour/tiktok": {
     "id": "6afabce9a869c35e5bcb5572",
     "dueAt": "2026-11-18T19:00:00.000Z",
@@ -39,16 +29,6 @@
     "dueAt": "2026-11-19T19:00:00.000Z",
     "status": "scheduled"
   },
-  "5-fri-heels-ready/tiktok": {
-    "id": "6afabcf060a910801c7c9624",
-    "dueAt": "2026-11-20T19:00:00.000Z",
-    "status": "scheduled"
-  },
-  "5-fri-heels-ready/instagram": {
-    "id": "6afabcf18e87c256a3c26607",
-    "dueAt": "2026-11-20T19:00:00.000Z",
-    "status": "scheduled"
-  },
   "6-sat-bloomy-gloom/tiktok": {
     "id": "6afabcf2ff465c57dae38403",
     "dueAt": "2026-11-21T10:00:00.000Z",
@@ -59,13 +39,33 @@
     "dueAt": "2026-11-21T10:00:00.000Z",
     "status": "scheduled"
   },
-  "7-sun-sunday-best/tiktok": {
-    "id": "6afabcf5d7e5fee638afa588",
+  "2-tue-dzaddy-new-in/tiktok": {
+    "id": "6afac7dc60a910801c80de30",
+    "dueAt": "2026-11-17T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-tue-dzaddy-new-in/instagram": {
+    "id": "6afac7e0d7e5fee638b41335",
+    "dueAt": "2026-11-17T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-friday-fit/tiktok": {
+    "id": "6afac7e3ff465c57dae7cc51",
+    "dueAt": "2026-11-20T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-friday-fit/instagram": {
+    "id": "6afac7e606e1675856dd5c87",
+    "dueAt": "2026-11-20T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-sun-match-him/tiktok": {
+    "id": "6afac7e9ff465c57dae7cea0",
     "dueAt": "2026-11-22T14:00:00.000Z",
     "status": "scheduled"
   },
-  "7-sun-sunday-best/instagram": {
-    "id": "6afabcf760a910801c7c9896",
+  "7-sun-match-him/instagram": {
+    "id": "6afac7ed8e87c256a3c69c04",
     "dueAt": "2026-11-22T14:00:00.000Z",
     "status": "scheduled"
   }
