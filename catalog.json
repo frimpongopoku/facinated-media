@@ -57,7 +57,7 @@
     "slug": "bean-flower-hatinator",
     "name": "Bean Flower Hatinator",
     "description": "",
-    "price": 160,
+    "price": 180,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/bean-flower-hatinator",
@@ -72,15 +72,14 @@
       "assets/products/bean-flower-hatinator-2.webp"
     ],
     "collections": [
-      "fascinators-hats",
-      "wonderfull-jesus-promo"
+      "fascinators-hats"
     ]
   },
   {
     "slug": "bespoke-netty-fascinator-addon",
     "name": "Bespoke Netty Fascinator Addon",
     "description": "",
-    "price": 80,
+    "price": 120,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/bespoke-netty-fascinator-addon",
@@ -91,8 +90,7 @@
       "assets/products/bespoke-netty-fascinator-addon-0.webp"
     ],
     "collections": [
-      "fascinators-hats",
-      "wonderfull-jesus-promo"
+      "fascinators-hats"
     ]
   },
   {
@@ -137,7 +135,7 @@
     "slug": "brida-fascinator",
     "name": "Brida Fascinator",
     "description": "",
-    "price": 180,
+    "price": 230,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/brida-fascinator",
@@ -184,8 +182,7 @@
       "assets/products/carlet-sculptural-0.webp"
     ],
     "collections": [
-      "fascinators-hats",
-      "wonderfull-jesus-promo"
+      "fascinators-hats"
     ]
   },
   {
@@ -212,7 +209,7 @@
     "slug": "classic-prestine-flower-fascinator",
     "name": "Classic Prestine Flower Fascinator",
     "description": "",
-    "price": 30,
+    "price": 50,
     "currency": "GHS",
     "availability": "InStock",
     "url": "https://facinated.com/products/classic-prestine-flower-fascinator",
@@ -781,10 +778,1176 @@
     ]
   },
   {
+    "slug": "cmwbyiea201fo2jol0k5ieqfa",
+    "name": "Item #28",
+    "description": "",
+    "price": 60,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiea201fo2jol0k5ieqfa",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/f580dd66-37cb-41eb-8a80-4f41a42c6399/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiea201fo2jol0k5ieqfa-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyielq01fq2joleyqw6l1w",
+    "name": "Item #29",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyielq01fq2joleyqw6l1w",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/90fe2916-5dfc-446f-b224-bb2051960b05/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyielq01fq2joleyqw6l1w-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiex601fs2jol2khp6j5v",
+    "name": "Item #30",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiex601fs2jol2khp6j5v",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/c0bfd18c-15c5-4915-86bb-5e2ee3f8eebf/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiex601fs2jol2khp6j5v-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyif7c01fu2jolmbchukce",
+    "name": "Item #31",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyif7c01fu2jolmbchukce",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/18ee46c8-031f-4c72-986b-a575560eba53/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyif7c01fu2jolmbchukce-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyifhx01fw2jol3g8d800a",
+    "name": "Item #32",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyifhx01fw2jol3g8d800a",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/f3d00062-3ed5-40ba-8188-744f0e4956e3/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyifhx01fw2jol3g8d800a-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyig1201fy2jol08j28ruk",
+    "name": "Item #33",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyig1201fy2jol08j28ruk",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/7acbf920-8e22-4080-ba9f-a0bd134042fb/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyig1201fy2jol08j28ruk-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyigdy01g02jolyyzhr9sn",
+    "name": "Item #34",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyigdy01g02jolyyzhr9sn",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/40dedd61-aa36-424d-acec-30dd56cf39f4/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyigdy01g02jolyyzhr9sn-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyigpr01g22jolskcd9ioi",
+    "name": "Item #35",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyigpr01g22jolskcd9ioi",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/031eeacd-5ba7-462f-b1c1-547737dfbca7/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyigpr01g22jolskcd9ioi-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyih1b01g42jol751p7j5v",
+    "name": "Item #36",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyih1b01g42jol751p7j5v",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/4804b255-466f-4b23-8598-fa9645a46b1a/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyih1b01g42jol751p7j5v-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyihcn01g62jol9hwsgfsp",
+    "name": "Item #37",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyihcn01g62jol9hwsgfsp",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/6a85d699-496e-483b-bfc5-68eef672a518/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyihcn01g62jol9hwsgfsp-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyihn001g82jol26rzjg4d",
+    "name": "Item #38",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyihn001g82jol26rzjg4d",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/697ee47f-727f-4d9d-94e9-f1a68e31646b/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyihn001g82jol26rzjg4d-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyihxi01ga2joltvj2s7oa",
+    "name": "Item #39",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyihxi01ga2joltvj2s7oa",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/f856f875-7dfc-4fff-87dc-0fdb70b06798/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyihxi01ga2joltvj2s7oa-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyii7y01gc2jolefw85dhi",
+    "name": "Item #40",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyii7y01gc2jolefw85dhi",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/ff038b21-7f69-41d5-ba6b-84e2eb54e440/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyii7y01gc2jolefw85dhi-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiilp01ge2jolgonmtdms",
+    "name": "Item #41",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiilp01ge2jolgonmtdms",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/2b63dd2e-baea-48a9-a497-1977a639b2cb/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiilp01ge2jolgonmtdms-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiiw401gg2joldnew9rkq",
+    "name": "Item #42",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiiw401gg2joldnew9rkq",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/979ac052-609c-4ebd-9084-41c6a6f8d951/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiiw401gg2joldnew9rkq-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyij7401gi2jolam4wl6gt",
+    "name": "Item #43",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyij7401gi2jolam4wl6gt",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/cf95dbf1-b30a-4c10-90c0-326fe9f9058b/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyij7401gi2jolam4wl6gt-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyijjp01gk2joloyzxcfwf",
+    "name": "Item #44",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyijjp01gk2joloyzxcfwf",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/c2052a7f-0947-429d-982f-c0bc9e7b94f3/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyijjp01gk2joloyzxcfwf-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyijwt01gm2jolkf7ldt57",
+    "name": "Item #45",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyijwt01gm2jolkf7ldt57",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/f20249ce-8a30-499a-bf50-901ce5df4531/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyijwt01gm2jolkf7ldt57-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyik8x01go2jol3vg8arxw",
+    "name": "Item #46",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyik8x01go2jol3vg8arxw",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/1042deb1-d091-45a6-8f1e-a34a891690ed/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyik8x01go2jol3vg8arxw-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyikpa01gq2joln0fkcdcs",
+    "name": "Item #47",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyikpa01gq2joln0fkcdcs",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/ccfee1e5-ac5f-4277-a207-6b287a4232ad/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyikpa01gq2joln0fkcdcs-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "cmwbyil1v01gs2jol7gixxhei",
+    "name": "Item #48",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyil1v01gs2jol7gixxhei",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/640ba7db-1dbc-4402-b1fa-6b22eb5ecbfe/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyil1v01gs2jol7gixxhei-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyilcz01gu2jol93hu7pcx",
+    "name": "Item #49",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyilcz01gu2jol93hu7pcx",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/76c01638-676d-4a71-885b-a660dfc22d33/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyilcz01gu2jol93hu7pcx-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiln501gw2jol8bivfkp1",
+    "name": "Item #50",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiln501gw2jol8bivfkp1",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/94e56fb5-c807-4bbf-a37d-f95c92948d66/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiln501gw2jol8bivfkp1-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyilyj01gy2jol13hefxem",
+    "name": "Item #51",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyilyj01gy2jol13hefxem",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/5a05843f-866e-4a50-96e1-db0615e67caf/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyilyj01gy2jol13hefxem-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyimbd01h02jol9eaj2tbm",
+    "name": "Item #52",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyimbd01h02jol9eaj2tbm",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/908d0f39-48fd-448a-b439-94890b61fff8/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyimbd01h02jol9eaj2tbm-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyimlb01h22joljx57xgcw",
+    "name": "Item #53",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyimlb01h22joljx57xgcw",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/9d87ac3b-8625-4fd4-b0ee-6bd01588d714/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyimlb01h22joljx57xgcw-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyimwk01h42jola1zm4zcc",
+    "name": "Item #54",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyimwk01h42jola1zm4zcc",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/5eb939a4-4980-4af4-9d63-77a8b4fadb7e/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyimwk01h42jola1zm4zcc-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyin7901h62jolxsaaheuk",
+    "name": "Item #55",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyin7901h62jolxsaaheuk",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/8b9268ac-19ab-4814-9a8f-976874385f16/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyin7901h62jolxsaaheuk-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyinhl01h82jolsn8wr1rm",
+    "name": "Item #56",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyinhl01h82jolsn8wr1rm",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/20445b53-22c8-4134-96fa-b171456720df/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyinhl01h82jolsn8wr1rm-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyins201ha2jol338gyefc",
+    "name": "Item #57",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyins201ha2jol338gyefc",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/46bcb170-1f09-498a-bd63-1daf6763dd30/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyins201ha2jol338gyefc-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyio2u01hc2joly6rujvdd",
+    "name": "Item #58",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyio2u01hc2joly6rujvdd",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/fedb34e5-1bec-4c96-8cea-26ed5300f569/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyio2u01hc2joly6rujvdd-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyioej01he2jol7rnqf0ok",
+    "name": "Item #59",
+    "description": "",
+    "price": 60,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyioej01he2jol7rnqf0ok",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/540a6b10-19c1-4dcd-b63c-bbdab63843ed/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyioej01he2jol7rnqf0ok-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyioqc01j62jolvk0l6rf3",
+    "name": "Item #60",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyioqc01j62jolvk0l6rf3",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/cf263b1d-f24f-4a8f-9a0f-f1c904de3ff2/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyioqc01j62jolvk0l6rf3-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyip4j01j82jolgi3lpq54",
+    "name": "Item #61",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyip4j01j82jolgi3lpq54",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/6de35b5d-2f17-47f7-a15a-0e57f0160dfd/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyip4j01j82jolgi3lpq54-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyipew01ja2jolphwrnn8i",
+    "name": "Item #62",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyipew01ja2jolphwrnn8i",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/40183452-5b98-4ffd-92fb-38f56df77dee/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyipew01ja2jolphwrnn8i-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyippy01jc2jol86d8p71k",
+    "name": "Item #63",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyippy01jc2jol86d8p71k",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/7394c6c0-dd0c-4e17-bb59-1d8e627ffe67/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyippy01jc2jol86d8p71k-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiq0l01je2jolanxtx1pv",
+    "name": "Item #64",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiq0l01je2jolanxtx1pv",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/341c0e84-5308-483b-8129-d1ed5421f7c3/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiq0l01je2jolanxtx1pv-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiqba01jg2jolsmdckf5i",
+    "name": "Item #65",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiqba01jg2jolsmdckf5i",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/db8ade2a-b1f2-4b6e-b8a9-21eafa6acabd/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiqba01jg2jolsmdckf5i-0.webp"
+    ],
+    "collections": []
+  },
+  {
+    "slug": "cmwbyiqmr01ji2jolk0ogcz5y",
+    "name": "Item #66",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiqmr01ji2jolk0ogcz5y",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/e30f4aca-7027-41a3-baaf-3a082fd3806d/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiqmr01ji2jolk0ogcz5y-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiqxk01jk2jol16xogkq9",
+    "name": "Item #67",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiqxk01jk2jol16xogkq9",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/07dc4f16-0f56-4f32-ac9f-7e1fc8c0aa84/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiqxk01jk2jol16xogkq9-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyir8001jm2jolpf3ol8le",
+    "name": "Item #68",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyir8001jm2jolpf3ol8le",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/5f44665c-4724-457c-bbdb-a1359946684d/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyir8001jm2jolpf3ol8le-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyirj101jo2jol87li13gt",
+    "name": "Item #69",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyirj101jo2jol87li13gt",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/28bd3a07-1101-4b00-85c4-b5cc29ea1e0a/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyirj101jo2jol87li13gt-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiru101jq2jolsq1uds95",
+    "name": "Item #70",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiru101jq2jolsq1uds95",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/96d0bda8-3554-4fd7-ab19-1aac048186e6/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiru101jq2jolsq1uds95-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyis5701js2jollp8gvvn0",
+    "name": "Item #71",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyis5701js2jollp8gvvn0",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/82385033-7e17-464a-be2f-9b0c48beb785/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyis5701js2jollp8gvvn0-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyisi601ju2jol0dp40bon",
+    "name": "Item #72",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyisi601ju2jol0dp40bon",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/1c5ccf2f-f344-4a4d-a921-6cc8a169f9ee/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyisi601ju2jol0dp40bon-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyisu701jw2jolx78u89qw",
+    "name": "Item #73",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyisu701jw2jolx78u89qw",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/a7605e6a-eee1-42be-9dd6-752148bf034c/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyisu701jw2jolx78u89qw-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyit5k01jy2jol303ieij5",
+    "name": "Item #74",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyit5k01jy2jol303ieij5",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/d13569af-bce3-4622-97e0-b5f7ad6a688e/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyit5k01jy2jol303ieij5-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyitfw01k02jol4j6fll1b",
+    "name": "Item #75",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyitfw01k02jol4j6fll1b",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/41c91c38-0207-41c6-a79e-7365c1d3c320/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyitfw01k02jol4j6fll1b-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyitsx01k22jol1gz5qhbp",
+    "name": "Item #76",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyitsx01k22jol1gz5qhbp",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/6f89265b-5a92-4b19-a6ac-9b9858000d6b/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyitsx01k22jol1gz5qhbp-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiu3w01k42jolu36ho001",
+    "name": "Item #77",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiu3w01k42jolu36ho001",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/f32beed9-d0fc-4263-8eab-681e351b1a35/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiu3w01k42jolu36ho001-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiuhu01k62jol3oiuz1pr",
+    "name": "Item #78",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiuhu01k62jol3oiuz1pr",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/0b150b2c-105e-4304-8c19-73c153255b0e/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiuhu01k62jol3oiuz1pr-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiusy01k82jolpe4ma6gq",
+    "name": "Item #79",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiusy01k82jolpe4ma6gq",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/9445a0a7-b1bd-4db2-ae87-607ca23a2b31/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiusy01k82jolpe4ma6gq-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiv3501ka2jolte2hs9vz",
+    "name": "Item #80",
+    "description": "",
+    "price": 80,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiv3501ka2jolte2hs9vz",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/01ed1b30-fa08-493e-8e2e-44bdb8183a34/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiv3501ka2jolte2hs9vz-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyivdm01kc2jolm8a6f9zr",
+    "name": "Item #81",
+    "description": "",
+    "price": 79,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyivdm01kc2jolm8a6f9zr",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/11cbaf6c-76cb-4e46-9cef-be23686930ce/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyivdm01kc2jolm8a6f9zr-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyivoq01ke2jolnc00fl17",
+    "name": "Item #82",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyivoq01ke2jolnc00fl17",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/dcbeb062-f4b3-4024-99f9-98a0e908cca1/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyivoq01ke2jolnc00fl17-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyivyz01kg2jol9wtuv7ge",
+    "name": "Item #83",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyivyz01kg2jol9wtuv7ge",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/60adab82-fb35-442a-9b50-7eeb96a6d1d9/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyivyz01kg2jol9wtuv7ge-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiw9k01ki2jol67ib31pj",
+    "name": "Item #84",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiw9k01ki2jol67ib31pj",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/22bdc858-089c-4089-93cf-9782b0c59472/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiw9k01ki2jol67ib31pj-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiwk301kk2jol1wuoewqa",
+    "name": "Item #85",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiwk301kk2jol1wuoewqa",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/e38baa91-bff9-4c83-bf6a-54703b846d65/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiwk301kk2jol1wuoewqa-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiwws01km2jolla3qjeos",
+    "name": "Item #86",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiwws01km2jolla3qjeos",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/9d52f531-57db-40e4-9667-aea2e0b1e792/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiwws01km2jolla3qjeos-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyix7c01ko2jolfw5vfh64",
+    "name": "Item #87",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyix7c01ko2jolfw5vfh64",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/f2319d4e-ba00-4ba1-a80a-95fa199d2cd9/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyix7c01ko2jolfw5vfh64-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyixjy01kq2jol6058pd68",
+    "name": "Item #88",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyixjy01kq2jol6058pd68",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/e1bba86c-4f5e-4c40-a0d2-44212e4fc365/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyixjy01kq2jol6058pd68-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyixuu01ks2jol2nnwrc1z",
+    "name": "Item #89",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyixuu01ks2jol2nnwrc1z",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/935493bd-6579-4d35-ba27-2fb2200dd951/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyixuu01ks2jol2nnwrc1z-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiy5c01ku2jolqkk3ovnu",
+    "name": "Item #90",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiy5c01ku2jolqkk3ovnu",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/a83ad121-c077-48bd-8a61-9d967ae1d1e3/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiy5c01ku2jolqkk3ovnu-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiyie01kw2jold83v6p0p",
+    "name": "Item #91",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiyie01kw2jold83v6p0p",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/6f9fa6e2-5a02-4550-b1a2-671e52fa88d2/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiyie01kw2jold83v6p0p-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
+    "slug": "cmwbyiysw01ky2jolwujir7t2",
+    "name": "Item #92",
+    "description": "",
+    "price": 70,
+    "currency": "GHS",
+    "availability": "InStock",
+    "url": "https://facinated.com/products/cmwbyiysw01ky2jolwujir7t2",
+    "images": [
+      "https://pub-dfcf75ee47cf4c2391bd37b96eb453dd.r2.dev/tenants/cmttv8fv600052jmvpqfa9scg/drops/a864eb28-8d61-4894-a5c9-a95175db246f/original.webp"
+    ],
+    "local_images": [
+      "assets/products/cmwbyiysw01ky2jolwujir7t2-0.webp"
+    ],
+    "collections": [
+      "dzaddy-s-picks"
+    ]
+  },
+  {
     "slug": "copper-loop-fascinator",
     "name": "Copper loop fascinator",
     "description": "",
-    "price": 90,
+    "price": 100,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/copper-loop-fascinator",
@@ -794,9 +1957,7 @@
     "local_images": [
       "assets/products/copper-loop-fascinator-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "couture-black-fascinator",
@@ -812,15 +1973,13 @@
     "local_images": [
       "assets/products/couture-black-fascinator-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "elegant-orange",
     "name": "elegant orange",
     "description": "",
-    "price": 100,
+    "price": 120,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/elegant-orange",
@@ -830,9 +1989,7 @@
     "local_images": [
       "assets/products/elegant-orange-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "emerald-fascinator",
@@ -856,7 +2013,7 @@
     "slug": "fascinator-with-pearl-accents",
     "name": "fascinator with pearl accents",
     "description": "",
-    "price": 80,
+    "price": 120,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/fascinator-with-pearl-accents",
@@ -866,9 +2023,7 @@
     "local_images": [
       "assets/products/fascinator-with-pearl-accents-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "feather-fascinator",
@@ -948,7 +2103,7 @@
     "slug": "ivory-feathered-facinator",
     "name": "Ivory feathered facinator",
     "description": "",
-    "price": 100,
+    "price": 120,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/ivory-feathered-facinator",
@@ -958,9 +2113,7 @@
     "local_images": [
       "assets/products/ivory-feathered-facinator-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "luxury-hat",
@@ -1015,6 +2168,7 @@
       "assets/products/modern-alien-dish-hatinator-1.webp"
     ],
     "collections": [
+      "dzaddy-s-picks",
       "fascinators-hats"
     ]
   },
@@ -1022,7 +2176,7 @@
     "slug": "orange-and-purple",
     "name": "Orange and purple",
     "description": "",
-    "price": 40,
+    "price": 50,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/orange-and-purple",
@@ -1032,9 +2186,7 @@
     "local_images": [
       "assets/products/orange-and-purple-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "orange-peral-fascinator",
@@ -1050,9 +2202,7 @@
     "local_images": [
       "assets/products/orange-peral-fascinator-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "pink-beaded-fascinator",
@@ -1094,7 +2244,7 @@
     "slug": "princess-pokah-hatinator",
     "name": "Princess Pokah Hatinator",
     "description": "Comes in all colors, just let us know.",
-    "price": 130,
+    "price": 170,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/princess-pokah-hatinator",
@@ -1140,9 +2290,7 @@
     "local_images": [
       "assets/products/rising-scribble-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "scarlet-feathered",
@@ -1159,15 +2307,14 @@
       "assets/products/scarlet-feathered-0.webp"
     ],
     "collections": [
-      "fascinators-hats",
-      "wonderfull-jesus-promo"
+      "fascinators-hats"
     ]
   },
   {
     "slug": "siliver-lungulungu-mesh",
     "name": "Siliver Lungulungu Mesh",
     "description": "",
-    "price": 120,
+    "price": 140,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/siliver-lungulungu-mesh",
@@ -1203,7 +2350,7 @@
     "slug": "spiral-orange",
     "name": "spiral orange",
     "description": "",
-    "price": 70,
+    "price": 130,
     "currency": "GHS",
     "availability": "PreOrder",
     "url": "https://facinated.com/products/spiral-orange",
@@ -1213,9 +2360,7 @@
     "local_images": [
       "assets/products/spiral-orange-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "spiral-wonder-fascinator",
@@ -1249,9 +2394,7 @@
     "local_images": [
       "assets/products/vibrant-orange-mesh-0.webp"
     ],
-    "collections": [
-      "wonderfull-jesus-promo"
-    ]
+    "collections": []
   },
   {
     "slug": "white-bridal-fascinator",
