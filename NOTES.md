@@ -10,7 +10,7 @@ every Monday before planning. Newest notes at the top. Examples:
 ## Notes
 
 - (16 Nov 2026) New menswear collection **Dzaddy's Picks**: men's shirts and tees,
-  GHS 60 to 80, in stock, listed on the site only as "Item #N". Feature it in about
+  GHS 70 to 80, in stock, listed on the site only as "Item #N". Feature it in about
   2 posts a week alongside fascinators (new-in, polls, his-and-hers colour matching).
   Give each shirt a plain descriptive `title` (e.g. "Blue Ombre Shirt"). The photos
   show another shop's name, logo and phone number on the wall: always use
