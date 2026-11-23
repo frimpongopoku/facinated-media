@@ -1,0 +1,72 @@
+{
+  "1-mon-under-100/tiktok": {
+    "id": "6b03f6b851038c931ba463e5",
+    "dueAt": "2026-11-23T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "1-mon-under-100/instagram": {
+    "id": "6b03f6ba51038c931ba46468",
+    "dueAt": "2026-11-23T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-tue-ready-for-him/tiktok": {
+    "id": "6b03f6bc4d584ce268313ba8",
+    "dueAt": "2026-11-24T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "2-tue-ready-for-him/instagram": {
+    "id": "6b03f6bd4d584ce268313c00",
+    "dueAt": "2026-11-24T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-wed-all-colours/tiktok": {
+    "id": "6b03f6bf9c207fed95869548",
+    "dueAt": "2026-11-25T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "3-wed-all-colours/instagram": {
+    "id": "6b03f6c04d584ce268313d4b",
+    "dueAt": "2026-11-25T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-thu-statement-hats/tiktok": {
+    "id": "6b03f6c24d584ce268313db4",
+    "dueAt": "2026-11-26T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "4-thu-statement-hats/instagram": {
+    "id": "6b03f6c39c207fed9586981f",
+    "dueAt": "2026-11-26T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-poll-saturday/tiktok": {
+    "id": "6b03f6c551038c931ba46723",
+    "dueAt": "2026-11-27T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "5-fri-poll-saturday/instagram": {
+    "id": "6b03f6c651038c931ba467f1",
+    "dueAt": "2026-11-27T19:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-sat-classic-feathered/tiktok": {
+    "id": "6b03f6c79c207fed958699d1",
+    "dueAt": "2026-11-28T10:00:00.000Z",
+    "status": "scheduled"
+  },
+  "6-sat-classic-feathered/instagram": {
+    "id": "6b03f6c99c1a68014f5c269e",
+    "dueAt": "2026-11-28T10:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-sun-match-his-and-hers/tiktok": {
+    "id": "6b03f6ca9c1a68014f5c26e4",
+    "dueAt": "2026-11-29T14:00:00.000Z",
+    "status": "scheduled"
+  },
+  "7-sun-match-his-and-hers/instagram": {
+    "id": "6b03f6cc9c1a68014f5c2768",
+    "dueAt": "2026-11-29T14:00:00.000Z",
+    "status": "scheduled"
+  }
+}
