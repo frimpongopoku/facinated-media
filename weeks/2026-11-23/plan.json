@@ -1,0 +1,411 @@
+{
+ "week": "2026-11-23",
+ "theme": "Wedding-season price reveal, in-stock menswear, any colour, statement hats, Saturday poll, Classic Feathered spotlight, his-and-hers matching",
+ "posts": [
+  {
+   "id": "1-mon-under-100",
+   "date": "2026-11-23",
+   "time": "19:00",
+   "format": "Price-reveal carousel",
+   "goal": "Saves and WhatsApp orders from budget-minded guests",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "copper-loop-fascinator",
+     "kicker": "Under budget",
+     "headline": "Fascinators at GHS 100 and under",
+     "sub": "Wedding season, sorted"
+    },
+    {
+     "type": "product",
+     "product": "orange-and-purple",
+     "label": "GHS 50"
+    },
+    {
+     "type": "product",
+     "product": "classic-prestine-flower-fascinator",
+     "label": "In stock"
+    },
+    {
+     "type": "product",
+     "product": "copper-loop-fascinator",
+     "label": "GHS 100"
+    },
+    {
+     "type": "product",
+     "product": "orange-peral-fascinator",
+     "label": "GHS 100"
+    },
+    {
+     "type": "cta",
+     "kicker": "Save this",
+     "headline": "Look good, spend less",
+     "lines": [
+      "Pre-order in your colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Fascinators at GHS 100 and under 👀 Save this for the next wedding. #facinated #fascinator #budgetfashion #ghanawedding #weddingguest #ghanatiktok",
+   "caption_instagram": "Wedding season does not have to be expensive 👀\n\nOrange and Purple: GHS 50\nClassic Prestine Flower (in stock): GHS 50\nCopper Loop: GHS 100\nOrange Pearl: GHS 100\n\nSave this for your next invite. Most pieces can be made in your colour.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #budgetfashion #weddingguest #ghanawedding #ghanaweddings #accrafashion #weddingguestlook #madeinghana",
+   "film_brief": [
+    "Hold each piece up and say the price",
+    "Pop the in-stock one on and smile",
+    "Point at the camera: save this"
+   ]
+  },
+  {
+   "id": "2-tue-ready-for-him",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "format": "In-stock carousel",
+   "goal": "Menswear orders; WhatsApp enquiries",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmwbyii7y01gc2jolefw85dhi",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "kicker": "Ready for him",
+     "headline": "Dzaddy's Picks, in stock now",
+     "sub": "Men's shirts, GHS 70 to 80"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyii7y01gc2jolefw85dhi",
+     "title": "Neon Floral Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "In stock"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyig1201fy2jol08j28ruk",
+     "title": "Burgundy Abstract Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "In stock"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyipew01ja2jolphwrnn8i",
+     "title": "Leopard Print Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "In stock"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyioqc01j62jolvk0l6rf3",
+     "title": "Banana Print Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "In stock"
+    },
+    {
+     "type": "cta",
+     "kicker": "For him",
+     "headline": "Pick his print",
+     "lines": [
+      "In stock now",
+      "Ask for his size on WhatsApp",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "In stock for him 🔥 Dzaddy's Picks from GHS 70. Which print is his? #facinated #mensfashion #dzaddyspicks #ghanafashion #accra #ghanatiktok",
+   "caption_instagram": "Ready for him 🔥\n\nFour prints from Dzaddy's Picks, all in stock. GHS 80 each. Send us his size on WhatsApp and we'll confirm.\n\nWhich one is his?\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #dzaddyspicks #mensfashion #menshirts #ghanamensfashion #accrafashion #ghanafashion #printshirt #weekendstyle #instock",
+   "film_brief": [
+    "Hold each shirt up to the camera",
+    "Show the print close up",
+    "Point: tag the man who needs one"
+   ]
+  },
+  {
+   "id": "3-wed-all-colours",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "format": "Custom-colour carousel",
+   "goal": "DMs with fabric and colour requests",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "premium-hostess-hatinator",
+     "kicker": "Any colour",
+     "headline": "Pick your colour, we make it",
+     "sub": "Asoebi ready"
+    },
+    {
+     "type": "product",
+     "product": "premium-hostess-hatinator",
+     "label": "Hostess",
+     "image": 0
+    },
+    {
+     "type": "product",
+     "product": "princess-pokah-hatinator",
+     "label": "Pokah",
+     "image": 0
+    },
+    {
+     "type": "product",
+     "product": "cmu19bk5j00012jqpw86rjocg",
+     "label": "Petals"
+    },
+    {
+     "type": "cta",
+     "kicker": "Send your fabric",
+     "headline": "We match it",
+     "lines": [
+      "Share your outfit or colour on WhatsApp",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Your colour, your piece 🎨 Send us your fabric and we'll match it. #facinated #fascinator #asoebi #ghanawedding #customfascinator #ghanatiktok",
+   "caption_instagram": "Hostess Hatinator, Princess Pokah and Long String Petals all come in your colour 🎨\n\nSend a photo of your fabric on WhatsApp and we'll talk you through it.\n\nPremium Hostess Hatinator: GHS 250\nPrincess Pokah Hatinator: GHS 170\nLong String Petals: GHS 40\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #hatinator #asoebi #asoebistyles #ghanawedding #customfascinator #accrafashion #madetoorder #madeinghana",
+   "film_brief": [
+    "Hold fabric next to a piece",
+    "Show two colour options side by side",
+    "Wave: send us yours"
+   ]
+  },
+  {
+   "id": "4-thu-statement-hats",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "format": "Statement hats edit",
+   "goal": "Saves; enquiries for big-day hats",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "luxury-hat",
+     "kicker": "Statement hats",
+     "headline": "Make an entrance",
+     "sub": "For the big day"
+    },
+    {
+     "type": "product",
+     "product": "airy-glam-hat"
+    },
+    {
+     "type": "product",
+     "product": "luxury-hat"
+    },
+    {
+     "type": "product",
+     "product": "bean-flower-hatinator"
+    },
+    {
+     "type": "cta",
+     "kicker": "Save this",
+     "headline": "Hats that turn heads",
+     "lines": [
+      "Pre-order in your colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Statement hats for the big day 👑 Save this. #facinated #hat #statementhat #ghanawedding #weddingguest #ghanatiktok",
+   "caption_instagram": "Make an entrance 👑\n\nAiry Glam Hat: GHS 800\nLuxury Hat: GHS 1000\nBean Flower Hatinator: GHS 180\n\nSave this for the big day. Pre-order and send us your colour on WhatsApp.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #hat #statementhat #hatinator #weddingguest #ghanawedding #ghanaweddings #accrafashion #churchhat #madeinghana",
+   "film_brief": [
+    "Slow turn with each hat",
+    "Close-up of the details",
+    "Walk in like it's a wedding"
+   ]
+  },
+  {
+   "id": "5-fri-poll-saturday",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "format": "Poll carousel",
+   "goal": "Comments and DMs before wedding Saturday",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "flora-fascinator",
+     "kicker": "Wedding Saturday",
+     "headline": "Which one for tomorrow? 1, 2 or 3",
+     "sub": "Swipe and comment your pick"
+    },
+    {
+     "type": "product",
+     "product": "flora-fascinator",
+     "number": 1,
+     "label": "Option one"
+    },
+    {
+     "type": "product",
+     "product": "feathered-cheater-skin",
+     "number": 2,
+     "label": "Option two"
+    },
+    {
+     "type": "product",
+     "product": "fascinator-with-pearl-accents",
+     "number": 3,
+     "label": "Option three"
+    },
+    {
+     "type": "cta",
+     "kicker": "Your number?",
+     "headline": "Drop it in the comments",
+     "lines": [
+      "Pieces can be made in your colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Wedding tomorrow? 1, 2 or 3? 👀 Comment your pick 👇 #facinated #fascinator #ghanawedding #weddingguest #weddingsaturday #ghanatiktok",
+   "caption_instagram": "Wedding Saturday is almost here. Which one are you wearing? 👀\n\n1. Asew Maame: GHS 170\n2. Feathered Cheater Skin: GHS 170\n3. Fascinator with Pearl Accents: GHS 120\n\nComment your number 👇 Pre-order in your colour on WhatsApp.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #fascinators #weddingguest #ghanawedding #ghanaweddings #weddingsaturday #accrafashion #weddingguestlook #madeinghana",
+   "film_brief": [
+    "Hold each piece up, one by one",
+    "Count 1, 2, 3 on your fingers",
+    "Point at the camera: comment yours"
+   ]
+  },
+  {
+   "id": "6-sat-classic-feathered",
+   "date": "2026-11-28",
+   "time": "10:00",
+   "format": "Single-piece spotlight",
+   "goal": "Saves; pre-orders",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "classic-feathered-facinator",
+     "kicker": "Piece of the week",
+     "headline": "Classic Feathered",
+     "sub": "Soft, light and elegant"
+    },
+    {
+     "type": "product",
+     "product": "classic-feathered-facinator",
+     "image": 0,
+     "note": "Can be made in your colour"
+    },
+    {
+     "type": "product",
+     "product": "classic-feathered-facinator",
+     "image": 1
+    },
+    {
+     "type": "cta",
+     "kicker": "Wedding Saturday",
+     "headline": "Wear it or order yours",
+     "lines": [
+      "Pre-order in any colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Classic Feathered 🪶 Soft and elegant. Yours in any colour. #facinated #fascinator #featheredfascinator #ghanawedding #weddingguest #ghanatiktok",
+   "caption_instagram": "Meet Classic Feathered 🪶\n\nSoft feathers and loops, GHS 130. Pre-order it in the colour that matches your outfit. Send us your fabric on WhatsApp.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #featheredfascinator #weddingguest #ghanawedding #weddingguestlook #accrafashion #fascinators #sundaybest #madeinghana",
+   "film_brief": [
+    "Slow turn showing all angles",
+    "Close-up of the feathers",
+    "Try it on with a soft-coloured outfit"
+   ]
+  },
+  {
+   "id": "7-sun-match-his-and-hers",
+   "date": "2026-11-29",
+   "time": "14:00",
+   "format": "Styling tip carousel",
+   "goal": "Couples cross-sell; saves",
+   "slides": [
+    {
+     "type": "cover",
+     "product": "cmwbyiru101jq2jolsq1uds95",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "kicker": "Sunday best",
+     "headline": "Matching colours for church",
+     "sub": "His shirt, your fascinator"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyiru101jq2jolsq1uds95",
+     "title": "Orange Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "His"
+    },
+    {
+     "type": "product",
+     "product": "elegant-orange",
+     "label": "Hers"
+    },
+    {
+     "type": "product",
+     "product": "cmwbyit5k01jy2jol303ieij5",
+     "title": "Burgundy Shirt",
+     "crop": [
+      0.24,
+      0.13,
+      0.9,
+      0.92
+     ],
+     "label": "His"
+    },
+    {
+     "type": "product",
+     "product": "scarlet-feathered",
+     "label": "Hers"
+    },
+    {
+     "type": "cta",
+     "kicker": "Style tip",
+     "headline": "Pick one colour, wear it twice",
+     "lines": [
+      "His shirt, your fascinator",
+      "Fascinators can be made in your colour",
+      "Order on WhatsApp: 053 476 3923",
+      "Shop: facinated.com"
+     ]
+    }
+   ],
+   "caption_tiktok": "Sunday best, matched 🧡❤️ His shirt, your fascinator. #facinated #fascinator #mensfashion #sundaybest #couplegoals #ghanatiktok",
+   "caption_instagram": "Sunday best, together 🧡❤️\n\nOrange Shirt: GHS 70 with Elegant Orange: GHS 120\nBurgundy Shirt: GHS 70 with Scarlet Feathered: GHS 150\n\nShirts are in stock from Dzaddy's Picks. Fascinators can be made in the colour you need.\n\nOrder on WhatsApp: 053 476 3923\n🛍 facinated.com (link in bio)\n\n#facinated #fascinator #dzaddyspicks #sundaybest #churchoutfit #couplegoals #matchingoutfits #mensfashion #ghanafashion #accrafashion",
+   "film_brief": [
+    "Lay his shirt and your fascinator side by side",
+    "Walk out together",
+    "Close-up of the matching colours"
+   ]
+  }
+ ]
+}
